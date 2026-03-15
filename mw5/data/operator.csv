@@ -1,221 +1,221 @@
-id,name,alias,icon,internalName,citizenship,language,status,background
-ranger_sg,Ranger,,mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png,milsim,,,,
-ghost,Ghost,,mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png,ghost,United Kingdom,English,Active,"Simon Riley, known as Ghost, is a British special forces operator assigned to Task Force 141. Renowned for his skull-painted balaclava and cold professionalism, Ghost serves as Price's most trusted lieutenant. His past is marked by tragedy and betrayal, forging him into one of the most formidable operators in the field."
-price,Price,,mw5/icons/ui_operator_west_price_portrait_1_1_lg.png,price,United Kingdom,English,Active,"Captain John Price is a veteran SAS officer and commander of Task Force 141. With decades of combat experience spanning multiple theatres, Price is one of the most decorated and feared operators in Western special forces. His calm under fire and tactical genius have saved countless lives."
-gaz,Gaz,,mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png,gaz_con,United Kingdom,English,Active,"Sergeant Kyle Garrick, callsign Gaz, is a British SAS operator and core member of Task Force 141. A skilled marksman and close-quarters combatant, Gaz brings sharp instincts and easy rapport to the team. His loyalty to Price and the mission is absolute."
-soap,Soap,,mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png,soap,United Kingdom,English,Active,"Sergeant John MacTavish, known as Soap, is a Scottish SAS operator handpicked by Captain Price for Task Force 141. Exceptionally capable in both close-quarters combat and explosives, Soap's natural talent and aggression make him one of the unit's most effective assets."
-domino,Domino,,,,,,,
-ronin,Ronin,,mw5/icons/ui_operator_west_ronin_portrait_1_1_lg.png,ronin,,,,
-alex,Alex,,mw5/icons/ui_operator_west_alex_portrait_1_1_lg.png,alex,,,,
-woods,Woods,,,,,,,
-nikto,Nikto,,mw5/icons/ui_operator_east_nikto_portrait_1_1_lg.png,nikto,,,,
-mace,Mace,,mw5/icons/ui_operator_east_mace_portrait_1_1_lg.png,mace,,,,
-farah,Farah,,mw5/icons/ui_operator_west_farah_portrait_1_1_lg.png,farah,,,,
-roze,Roze,,mw5/icons/ui_operator_east_roze_portrait_1_1_lg.png,roze,,,,
-velikan,Velikan,,mw5/icons/ui_operator_east_velikan_portrait_1_1_lg.png,velikan,,,,
-park,Park,,,,,,,
-adler,Adler,,,,,,,
-sims,Sims,,,,,,,
-weaver,Weaver,,,,,,,
-hudson,Hudson,,,,,,,
-stone,Stone,,,,,,,
-stitch,Stitch,,,,,,,
-snoop,Snoop Dogg,,mw5/icons/ui_operator_west_snoop_portrait_1_1_lg.png,snoop,,,,
-t800,T-800,,,,,,,
-chuy,Jesus Ordaz,Chuy,mw5/icons/ui_operator_west_chili_portrait_1_1_lg.png,chili,,,,
-gus,Gus,,mw5/icons/ui_operator_west_gus_portrait_1_1_lg.png,gus,,,,
-zimo,Zimo,,mw5/icons/ui_operator_west_zimo_portrait_1_1_lg.png,zimo,,,,
-kleo,Kleo,,mw5/icons/ui_operator_west_kleo_portrait_1_1_lg.png,kleo,,,,
-nova,Nova,,mw5/icons/ui_operator_west_nova_portrait_1_1_lg.png,nova,,,,
-gromsko,Gromsko,,mw5/icons/ui_operator_west_gromsko_portrait_3_1_lg.png,gromsko,,,,
-reyes,Reyes,,mw5/icons/ui_operator_west_reyes_portrait_1_1_lg.png,reyes,,,,
-luna,Luna,,mw5/icons/ui_operator_west_luna_portrait_1_1_lg.png,luna,,,,
-pogba,Paul Pogba,,mw5/icons/ui_operator_west_pogba_portrait_1_1_lg.png,pogba,,,,
-messi,Messi,,mw5/icons/ui_operator_west_messi_portrait_1_1_lg.png,messi,,,,
-alejandro,Alejandro,,mw5/icons/ui_operator_west_alejandro_portrait_1_1_lg.png,alejandro,,,,
-durant,Kevin Durant,,mw5/icons/ui_operator_west_kevin_durant_portrait_1_1_lg.png,kevin_durant,,,,
-tim,TimTheTatman,,mw5/icons/ui_operator_west_tim_portrait_1_1_lg.png,tim,,,,
-io,Io,,mw5/icons/ui_operator_west_blackcell_portrait_2_1_lg.png,blackcell,,,,
-butch,Butch,,mw5/icons/ui_operator_west_freedom_portrait_2_1_lg.png,freedom,,,,
-starlight,Starlight,,mw5/icons/ui_operator_west_starlight_portrait_1_1_lg.png,starlight,,,,
-arthur_mw5,Arthur,,mw5/icons/ui_operator_west_arthur_portrait_1_1_lg.png,arthur,,,,
-lara,Lara Croft,,mw5/icons/ui_operator_west_lc_portrait_1_1_lg.png,lc,,,,
-spawn,Spawn,,mw5/icons/ui_operator_west_spawn_portrait_2_1_lg.png,spawn,,,,
-alucard,Alucard,,mw5/icons/ui_operator_west_hellsing_portrait_1_1_lg.png,hellsing,,,,
-ash,Ash Williams,,mw5/icons/ui_operator_west_ash_portrait_1_1_lg.png,ash,,,,
-inarius,Inarius,,mw5/icons/ui_operator_west_inarius_portrait_1_1_lg.png,inarius,,,,
-cdl_hf,CDL Home Female,,mw5/icons/ui_operator_west_cdl_home_female_portrait_1_1_lg.png,cdl_home_female,,,,
-cdl_hm,CDL Home Male,,mw5/icons/ui_operator_west_cdl_home_male_portrait_1_1_lg.png,cdl_home_male,,,,
-ranger_kt,Ranger,,mw5/icons/ui_operator_east_milsim_portrait_1_1_lg.png,milsim,,,,
-fender,Fender,,mw5/icons/ui_operator_east_fender_portrait_1_1_lg.png,fender,,,,
-konig,Konig,,mw5/icons/ui_operator_east_koenig_portrait_1_1_lg.png,koenig,Austria,German,Active,"König (age unknown) suffers from severe social anxiety. Unfortunately for him, it's hard to go unnoticed when you're the size of a mountain.\n\nBullied as a child, König found acceptance only when fighting — an activity at which he excelled. After volunteering for the military at 17, König was selected to an elite commando unit. While he'd hoped to join as a sniper, his size made concealment nearly impossible."
-calisto,Calisto,,mw5/icons/ui_operator_east_calisto_portrait_1_1_lg.png,calisto,,,,
-hutch,Hutch,,mw5/icons/ui_operator_east_hutch_portrait_1_1_lg.png,hutch,,,,
-horangi,Horangi,,mw5/icons/ui_operator_east_horangi_portrait_2_1_lg.png,horangi,,,,
-oni,Oni,,mw5/icons/ui_operator_east_oni_portrait_1_1_lg.png,oni,,,,
-zero,Zero,,mw5/icons/ui_operator_east_jinn_portrait_1_1_lg.png,jinn,,,,
-conor,Conor,,mw5/icons/ui_operator_east_conor_portrait_1_1_lg.png,conor,,,,
-aksel,Aksel,,mw5/icons/ui_operator_east_aksel_portrait_1_1_lg.png,aksel,,,,
-stiletto,Stiletto,,mw5/icons/ui_operator_east_stiletto_portrait_1_1_lg.png,stiletto,,,,
-zeus,Zeus,,mw5/icons/ui_operator_east_zeus_portrait_1_1_lg.png,zeus,,,,
-neymar,Neymar Jr,,mw5/icons/ui_operator_east_neymar_portrait_1_1_lg.png,neymar,,,,
-klaus_mw5,Klaus,,mw5/icons/ui_operator_east_klaus_portrait_1_1_lg.png,klaus,,,,
-shredder,Shredder,,mw5/icons/ui_operator_east_shredder_portrait_1_1_lg.png,shredder,,,,
-valeria,Valeria,,mw5/icons/ui_operator_east_valeria_portrait_1_1_lg.png,valeria,,,,
-atom,Atom,,mw5/icons/ui_operator_east_black_cell_portrait_1_1_lg.png,black_cell,,,,
-nickmercs,Nickmercs,,mw5/icons/ui_operator_east_nick_mercs_portrait_1_1_lg.png,nick_mercs,,,,
-vega,Vega,,mw5/icons/ui_operator_east_blair_portrait_1_1_lg.png,blair,,,,
-homelander,Homelander,,mw5/icons/ui_operator_east_homelander_portrait_1_1_lg.png,homelander,,,,
-blacknoir,Black Noir,,mw5/icons/ui_operator_east_blacknoir_portrait_1_1_lg.png,blacknoir,,,,
-izzy,Izzy,,mw5/icons/ui_operator_east_anime_portrait_1_1_lg.png,anime,,,,
-oz,Oz,,mw5/icons/ui_operator_east_zoltan_portrait_1_1_lg.png,zoltan,,,,
-graves,Graves,,mw5/icons/ui_operator_east_graves_portrait_pmc_lg.png,graves,,,,
-mila,Mila,,mw5/icons/ui_operator_east_bullitt_portrait_1_1_lg.png,bullitt,,,,
-nicki,Nicki Minaj,,mw5/icons/ui_operator_east_nima_portrait_1_1_lg.png,nima,,,,
-21savage,21 Savage,,mw5/icons/ui_operator_east_tws_portrait_1_1_lg.png,tws,,,,
-v4l3ria,V4L3RIA,,mw5/icons/ui_operator_east_valeria_portrait_8_1_lg.png,valeria,,,,
-lilith,Lilith,,mw5/icons/ui_operator_east_lilith_portrait_1_1_lg.png,lilith,,,,
-skeletor,Skeletor,,mw5/icons/ui_operator_east_skeletor_portrait_1_1_lg.png,skeletor,,,,
-sardaukar,Sardaukar,,mw5/icons/ui_operator_east_dune_portrait_1_1_lg.png,dune,,,,
-cdl_af,CDL Away Female,,mw5/icons/ui_operator_east_cdl_away_female_portrait_1_1_lg.png,cdl_away_female,,,,
-cdl_am,CDL Away Male,,mw5/icons/ui_operator_east_cdl_away_male_portrait_1_1_lg.png,cdl_away_male,,,,
-blueprint,Blueprint,,,,,,,
-rocket,Rocket,,,,,,,
-byline,Byline,,,,,,,
-scorch,Scorch,,,,,,,
-ripper,Ripper,,,,,,,
-pathfinder,Pathfinder,,,,,,,
-warrior,Warrior,,,,,,,
-riptide,Riptide,,,,,,,
-bbq,BBQ,,,,,,,
-jabber,Jabber,,,,,,,
-jet,Jet,,,,,,,
-lockpick,Lockpick,,,,,,,
-abolisher,Abolisher,,,,,,,
-paulatreides,Paul Atreides,,,,,,,
-atrain,A-Train,,,,,,,
-laswell,Laswell,,,,,,,
-rickgrimes,Rick Grimes,,,,,,,
-johndoe,John Doe,,,,,,,
-chong,Chong,,,,,,,
-dbook,D Book,,,,,,,
-dupe,Dupe,,,,,,,
-codyrhodes,Cody Rhodes,,,,,,,
-reymysterio,Rey Mysterio,,,,,,,
-thecrow,The Crow,,,,,,,
-slamfire,Slamfire,,,,,,,
-daryldixon,Daryl Dixon,,,,,,,
-sam_mw6,Sam,,,,,,,
-blaze,Blaze,,,,,,,
-thirst,Thirst,,,,,,,
-warden,Warden,,,,,,,
-makarov,Makarov,,,,,,,
-alpine,Alpine,,,,,,,
-enigma,Enigma,,,,,,,
-bantam,Bantam,,,,,,,
-doc,Doc,,,,,,,
-raptor,Raptor,,,,,,,
-corso,Corso,,,,,,,
-swagger,Swagger,,,,,,,
-nolan,Nolan,,,,,,,
-dokkaebi,Dokkaebi,,,,,,,
-feydrautha,Feyd-Rautha,,,,,,,
-firecracker,Firecracker,,,,,,,
-michonne,Michonne,,,,,,,
-banshee,Banshee,,,,,,,
-hush,Hush,,,,,,,
-stasis,Stasis,,,,,,,
-cheech,Cheech,,,,,,,
-hammer,Hammer,,,,,,,
-void,Void,,,,,,,
-copy,Copy,,,,,,,
-rhearipley,Rhea Ripley,,,,,,,
-ares,Ares,,,,,,,
-reckoner,Reckoner,,,,,,,
-myers,Michael Myers,,,,,,,
-alone,Alone,,,,,,,
-artclown,Art the Clown,,,,,,,
-nazir,Nazir,,,,,,,
-westpoint,Westpoint,,,,,,,
-bayan,Bayan,,,,,,,
-alvarez,Alvarez,,,,,,,
-payne,Payne,,,,,,,
-marshall,Marshall,,,,,,,
-maya,Maya,,,,,,,
-sev,Sev,,,,,,,
-goliath,Goliath,,,,,,,
-replacer_s,The Replacer,,,,,,,
-samuels,Samuels,,,,,,,
-lionmask,Lion Mask VIP,,,,,,,
-leonardo,Leonardo,,,,,,,
-donatello,Donatello,,,,,,,
-raphael,Raphael,,,,,,,
-michelangelo,Michelangelo,,,,,,,
-splinter,Splinter,,,,,,,
-jay,Jay,,,,,,,
-silentbob,Silent Bob,,,,,,,
-sethrogen,Seth Rogen,,,,,,,
-beavis,Beavis,,,,,,,
-butthead,Butt-Head,,,,,,,
-roger,Roger,,,,,,,
-solace,Solace,,,,,,,
-reznov,Reznov,,,,,,,
-predator,Predator,,,,,,,
-feralpred,Feral Predator,,,,,,,
-dread,Dread,,,,,,,
-dek,Dek,,,,,,,
-tiffany,Tiffany,,,,,,,
-brutus,Brutus,,,,,,,
-klausbo6,Klaus,,,,,,,
-rossi,Rossi,,,,,,,
-caine,Caine,,,,,,,
-niran,Niran,,,,,,,
-toro,Toro,,,,,,,
-bailey,Bailey,,,,,,,
-carver,Carver,,,,,,,
-grey,Grey,,,,,,,
-frontman,Front Man,,,,,,,
-maskedsol,Masked Soldier,,,,,,,
-maskedmgr,Masked Manager,,,,,,,
-maskedwkr,Masked Worker,,,,,,,
-younghee,Young-hee,,,,,,,
-panthermask,Panther Mask VIP,,,,,,,
-nocturne,Nocturne,,,,,,,
-vortex,Vortex,,,,,,,
-r0z3,R0-Z3,,,,,,,
-johnbo,John Black Ops,,,,,,,
-omen,Omen,,,,,,,
-evemacarro,Eve Macarro,,,,,,,
-buzzcut,Coach Buzzcut,,,,,,,
-todd,Todd,,,,,,,
-stansmith,Stan Smith,,,,,,,
-fisherman,The Fisherman,,,,,,,
-jason,Jason Voorhees,,,,,,,
-chucky,Chucky,,,,,,,
-harper,Harper,,,,,,,
-karma,Karma,,,,,,,
-mason_sec,Mason,,,,,,,
-5050,50/50,,,,,,,
-anderson,Anderson,,,,,,,
-weilin,Wei Lin,,,,,,,
-vermaak,Vermaak,,,,,,,
-dempsey,Dempsey,,,,,,,
-takeo,Takeo,,,,,,,
-scorn,Scorn,,,,,,,
-replacer_g,The Replacer (Glaser),,,,,,,
-lucy,Lucy,,,,,,,
-reaperewr3,Reaper EWR-3,,,,,,,
-tedd,T.E.D.D.,,,,,,,
-zaveri,Zaveri,,,,,,,
-jurado,Jurado,,,,,,,
-grimm,Grimm,,,,,,,
-falkner,Falkner,,,,,,,
-razor,Razor,,,,,,,
-kagan,Kagan,,,,,,,
-nikolai_bo7,Nikolai,,,,,,,
-richtofen,Richtofen,,,,,,,
-dorne,Dorne,,,,,,,
-maximus,Maximus,,,,,,,
-theghoul,The Ghoul,,,,,,,
-atwood,Atwood,,,,,,,
-phantom,Phantom,,,,,,,
+id;name;alias;icon;internalName;citizenship;language;status;background
+ranger_sg;Ranger;;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;milsim;;;;
+ghost;Ghost;;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;ghost;United Kingdom;English;Active;Simon Riley, known as Ghost, is a British special forces operator assigned to Task Force 141. Renowned for his skull-painted balaclava and cold professionalism, Ghost serves as Price's most trusted lieutenant. His past is marked by tragedy and betrayal, forging him into one of the most formidable operators in the field.
+price;Price;;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;price;United Kingdom;English;Active;Captain John Price is a veteran SAS officer and commander of Task Force 141. With decades of combat experience spanning multiple theatres, Price is one of the most decorated and feared operators in Western special forces. His calm under fire and tactical genius have saved countless lives.
+gaz;Gaz;;mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png;gaz_con;United Kingdom;English;Active;Sergeant Kyle Garrick, callsign Gaz, is a British SAS operator and core member of Task Force 141. A skilled marksman and close-quarters combatant, Gaz brings sharp instincts and easy rapport to the team. His loyalty to Price and the mission is absolute.
+soap;Soap;;mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png;soap;United Kingdom;English;Active;Sergeant John MacTavish, known as Soap, is a Scottish SAS operator handpicked by Captain Price for Task Force 141. Exceptionally capable in both close-quarters combat and explosives, Soap's natural talent and aggression make him one of the unit's most effective assets.
+domino;Domino;;;;;;;
+ronin;Ronin;;mw5/icons/ui_operator_west_ronin_portrait_1_1_lg.png;ronin;;;;
+alex;Alex;;mw5/icons/ui_operator_west_alex_portrait_1_1_lg.png;alex;;;;
+woods;Woods;;;;;;;
+nikto;Nikto;;mw5/icons/ui_operator_east_nikto_portrait_1_1_lg.png;nikto;;;;
+mace;Mace;;mw5/icons/ui_operator_east_mace_portrait_1_1_lg.png;mace;;;;
+farah;Farah;;mw5/icons/ui_operator_west_farah_portrait_1_1_lg.png;farah;;;;
+roze;Roze;;mw5/icons/ui_operator_east_roze_portrait_1_1_lg.png;roze;;;;
+velikan;Velikan;;mw5/icons/ui_operator_east_velikan_portrait_1_1_lg.png;velikan;;;;
+park;Park;;;;;;;
+adler;Adler;;;;;;;
+sims;Sims;;;;;;;
+weaver;Weaver;;;;;;;
+hudson;Hudson;;;;;;;
+stone;Stone;;;;;;;
+stitch;Stitch;;;;;;;
+snoop;Snoop Dogg;;mw5/icons/ui_operator_west_snoop_portrait_1_1_lg.png;snoop;;;;
+t800;T-800;;;;;;;
+chuy;Jesus Ordaz;Chuy;mw5/icons/ui_operator_west_chili_portrait_1_1_lg.png;chili;;;;
+gus;Gus;;mw5/icons/ui_operator_west_gus_portrait_1_1_lg.png;gus;;;;
+zimo;Zimo;;mw5/icons/ui_operator_west_zimo_portrait_1_1_lg.png;zimo;;;;
+kleo;Kleo;;mw5/icons/ui_operator_west_kleo_portrait_1_1_lg.png;kleo;;;;
+nova;Nova;;mw5/icons/ui_operator_west_nova_portrait_1_1_lg.png;nova;;;;
+gromsko;Gromsko;;mw5/icons/ui_operator_west_gromsko_portrait_3_1_lg.png;gromsko;;;;
+reyes;Reyes;;mw5/icons/ui_operator_west_reyes_portrait_1_1_lg.png;reyes;;;;
+luna;Luna;;mw5/icons/ui_operator_west_luna_portrait_1_1_lg.png;luna;;;;
+pogba;Paul Pogba;;mw5/icons/ui_operator_west_pogba_portrait_1_1_lg.png;pogba;;;;
+messi;Messi;;mw5/icons/ui_operator_west_messi_portrait_1_1_lg.png;messi;;;;
+alejandro;Alejandro;;mw5/icons/ui_operator_west_alejandro_portrait_1_1_lg.png;alejandro;;;;
+durant;Kevin Durant;;mw5/icons/ui_operator_west_kevin_durant_portrait_1_1_lg.png;kevin_durant;;;;
+tim;TimTheTatman;;mw5/icons/ui_operator_west_tim_portrait_1_1_lg.png;tim;;;;
+io;Io;;mw5/icons/ui_operator_west_blackcell_portrait_2_1_lg.png;blackcell;;;;
+butch;Butch;;mw5/icons/ui_operator_west_freedom_portrait_2_1_lg.png;freedom;;;;
+starlight;Starlight;;mw5/icons/ui_operator_west_starlight_portrait_1_1_lg.png;starlight;;;;
+arthur_mw5;Arthur;;mw5/icons/ui_operator_west_arthur_portrait_1_1_lg.png;arthur;;;;
+lara;Lara Croft;;mw5/icons/ui_operator_west_lc_portrait_1_1_lg.png;lc;;;;
+spawn;Spawn;;mw5/icons/ui_operator_west_spawn_portrait_2_1_lg.png;spawn;;;;
+alucard;Alucard;;mw5/icons/ui_operator_west_hellsing_portrait_1_1_lg.png;hellsing;;;;
+ash;Ash Williams;;mw5/icons/ui_operator_west_ash_portrait_1_1_lg.png;ash;;;;
+inarius;Inarius;;mw5/icons/ui_operator_west_inarius_portrait_1_1_lg.png;inarius;;;;
+cdl_hf;CDL Home Female;;mw5/icons/ui_operator_west_cdl_home_female_portrait_1_1_lg.png;cdl_home_female;;;;
+cdl_hm;CDL Home Male;;mw5/icons/ui_operator_west_cdl_home_male_portrait_1_1_lg.png;cdl_home_male;;;;
+ranger_kt;Ranger;;mw5/icons/ui_operator_east_milsim_portrait_1_1_lg.png;milsim;;;;
+fender;Fender;;mw5/icons/ui_operator_east_fender_portrait_1_1_lg.png;fender;;;;
+konig;Konig;;mw5/icons/ui_operator_east_koenig_portrait_1_1_lg.png;koenig;Austria;German;Active;König (age unknown) suffers from severe social anxiety. Unfortunately for him, it's hard to go unnoticed when you're the size of a mountain.\n\nBullied as a child, König found acceptance only when fighting — an activity at which he excelled. After volunteering for the military at 17, König was selected to an elite commando unit. While he'd hoped to join as a sniper, his size made concealment nearly impossible.
+calisto;Calisto;;mw5/icons/ui_operator_east_calisto_portrait_1_1_lg.png;calisto;;;;
+hutch;Hutch;;mw5/icons/ui_operator_east_hutch_portrait_1_1_lg.png;hutch;;;;
+horangi;Horangi;;mw5/icons/ui_operator_east_horangi_portrait_2_1_lg.png;horangi;;;;
+oni;Oni;;mw5/icons/ui_operator_east_oni_portrait_1_1_lg.png;oni;;;;
+zero;Zero;;mw5/icons/ui_operator_east_jinn_portrait_1_1_lg.png;jinn;;;;
+conor;Conor;;mw5/icons/ui_operator_east_conor_portrait_1_1_lg.png;conor;;;;
+aksel;Aksel;;mw5/icons/ui_operator_east_aksel_portrait_1_1_lg.png;aksel;;;;
+stiletto;Stiletto;;mw5/icons/ui_operator_east_stiletto_portrait_1_1_lg.png;stiletto;;;;
+zeus;Zeus;;mw5/icons/ui_operator_east_zeus_portrait_1_1_lg.png;zeus;;;;
+neymar;Neymar Jr;;mw5/icons/ui_operator_east_neymar_portrait_1_1_lg.png;neymar;;;;
+klaus_mw5;Klaus;;mw5/icons/ui_operator_east_klaus_portrait_1_1_lg.png;klaus;;;;
+shredder;Shredder;;mw5/icons/ui_operator_east_shredder_portrait_1_1_lg.png;shredder;;;;
+valeria;Valeria;;mw5/icons/ui_operator_east_valeria_portrait_1_1_lg.png;valeria;;;;
+atom;Atom;;mw5/icons/ui_operator_east_black_cell_portrait_1_1_lg.png;black_cell;;;;
+nickmercs;Nickmercs;;mw5/icons/ui_operator_east_nick_mercs_portrait_1_1_lg.png;nick_mercs;;;;
+vega;Vega;;mw5/icons/ui_operator_east_blair_portrait_1_1_lg.png;blair;;;;
+homelander;Homelander;;mw5/icons/ui_operator_east_homelander_portrait_1_1_lg.png;homelander;;;;
+blacknoir;Black Noir;;mw5/icons/ui_operator_east_blacknoir_portrait_1_1_lg.png;blacknoir;;;;
+izzy;Izzy;;mw5/icons/ui_operator_east_anime_portrait_1_1_lg.png;anime;;;;
+oz;Oz;;mw5/icons/ui_operator_east_zoltan_portrait_1_1_lg.png;zoltan;;;;
+graves;Graves;;mw5/icons/ui_operator_east_graves_portrait_pmc_lg.png;graves;;;;
+mila;Mila;;mw5/icons/ui_operator_east_bullitt_portrait_1_1_lg.png;bullitt;;;;
+nicki;Nicki Minaj;;mw5/icons/ui_operator_east_nima_portrait_1_1_lg.png;nima;;;;
+21savage;21 Savage;;mw5/icons/ui_operator_east_tws_portrait_1_1_lg.png;tws;;;;
+v4l3ria;V4L3RIA;;mw5/icons/ui_operator_east_valeria_portrait_8_1_lg.png;valeria;;;;
+lilith;Lilith;;mw5/icons/ui_operator_east_lilith_portrait_1_1_lg.png;lilith;;;;
+skeletor;Skeletor;;mw5/icons/ui_operator_east_skeletor_portrait_1_1_lg.png;skeletor;;;;
+sardaukar;Sardaukar;;mw5/icons/ui_operator_east_dune_portrait_1_1_lg.png;dune;;;;
+cdl_af;CDL Away Female;;mw5/icons/ui_operator_east_cdl_away_female_portrait_1_1_lg.png;cdl_away_female;;;;
+cdl_am;CDL Away Male;;mw5/icons/ui_operator_east_cdl_away_male_portrait_1_1_lg.png;cdl_away_male;;;;
+blueprint;Blueprint;;;;;;;
+rocket;Rocket;;;;;;;
+byline;Byline;;;;;;;
+scorch;Scorch;;;;;;;
+ripper;Ripper;;;;;;;
+pathfinder;Pathfinder;;;;;;;
+warrior;Warrior;;;;;;;
+riptide;Riptide;;;;;;;
+bbq;BBQ;;;;;;;
+jabber;Jabber;;;;;;;
+jet;Jet;;;;;;;
+lockpick;Lockpick;;;;;;;
+abolisher;Abolisher;;;;;;;
+paulatreides;Paul Atreides;;;;;;;
+atrain;A-Train;;;;;;;
+laswell;Laswell;;;;;;;
+rickgrimes;Rick Grimes;;;;;;;
+johndoe;John Doe;;;;;;;
+chong;Chong;;;;;;;
+dbook;D Book;;;;;;;
+dupe;Dupe;;;;;;;
+codyrhodes;Cody Rhodes;;;;;;;
+reymysterio;Rey Mysterio;;;;;;;
+thecrow;The Crow;;;;;;;
+slamfire;Slamfire;;;;;;;
+daryldixon;Daryl Dixon;;;;;;;
+sam_mw6;Sam;;;;;;;
+blaze;Blaze;;;;;;;
+thirst;Thirst;;;;;;;
+warden;Warden;;;;;;;
+makarov;Makarov;;;;;;;
+alpine;Alpine;;;;;;;
+enigma;Enigma;;;;;;;
+bantam;Bantam;;;;;;;
+doc;Doc;;;;;;;
+raptor;Raptor;;;;;;;
+corso;Corso;;;;;;;
+swagger;Swagger;;;;;;;
+nolan;Nolan;;;;;;;
+dokkaebi;Dokkaebi;;;;;;;
+feydrautha;Feyd-Rautha;;;;;;;
+firecracker;Firecracker;;;;;;;
+michonne;Michonne;;;;;;;
+banshee;Banshee;;;;;;;
+hush;Hush;;;;;;;
+stasis;Stasis;;;;;;;
+cheech;Cheech;;;;;;;
+hammer;Hammer;;;;;;;
+void;Void;;;;;;;
+copy;Copy;;;;;;;
+rhearipley;Rhea Ripley;;;;;;;
+ares;Ares;;;;;;;
+reckoner;Reckoner;;;;;;;
+myers;Michael Myers;;;;;;;
+alone;Alone;;;;;;;
+artclown;Art the Clown;;;;;;;
+nazir;Nazir;;;;;;;
+westpoint;Westpoint;;;;;;;
+bayan;Bayan;;;;;;;
+alvarez;Alvarez;;;;;;;
+payne;Payne;;;;;;;
+marshall;Marshall;;;;;;;
+maya;Maya;;;;;;;
+sev;Sev;;;;;;;
+goliath;Goliath;;;;;;;
+replacer_s;The Replacer;;;;;;;
+samuels;Samuels;;;;;;;
+lionmask;Lion Mask VIP;;;;;;;
+leonardo;Leonardo;;;;;;;
+donatello;Donatello;;;;;;;
+raphael;Raphael;;;;;;;
+michelangelo;Michelangelo;;;;;;;
+splinter;Splinter;;;;;;;
+jay;Jay;;;;;;;
+silentbob;Silent Bob;;;;;;;
+sethrogen;Seth Rogen;;;;;;;
+beavis;Beavis;;;;;;;
+butthead;Butt-Head;;;;;;;
+roger;Roger;;;;;;;
+solace;Solace;;;;;;;
+reznov;Reznov;;;;;;;
+predator;Predator;;;;;;;
+feralpred;Feral Predator;;;;;;;
+dread;Dread;;;;;;;
+dek;Dek;;;;;;;
+tiffany;Tiffany;;;;;;;
+brutus;Brutus;;;;;;;
+klausbo6;Klaus;;;;;;;
+rossi;Rossi;;;;;;;
+caine;Caine;;;;;;;
+niran;Niran;;;;;;;
+toro;Toro;;;;;;;
+bailey;Bailey;;;;;;;
+carver;Carver;;;;;;;
+grey;Grey;;;;;;;
+frontman;Front Man;;;;;;;
+maskedsol;Masked Soldier;;;;;;;
+maskedmgr;Masked Manager;;;;;;;
+maskedwkr;Masked Worker;;;;;;;
+younghee;Young-hee;;;;;;;
+panthermask;Panther Mask VIP;;;;;;;
+nocturne;Nocturne;;;;;;;
+vortex;Vortex;;;;;;;
+r0z3;R0-Z3;;;;;;;
+johnbo;John Black Ops;;;;;;;
+omen;Omen;;;;;;;
+evemacarro;Eve Macarro;;;;;;;
+buzzcut;Coach Buzzcut;;;;;;;
+todd;Todd;;;;;;;
+stansmith;Stan Smith;;;;;;;
+fisherman;The Fisherman;;;;;;;
+jason;Jason Voorhees;;;;;;;
+chucky;Chucky;;;;;;;
+harper;Harper;;;;;;;
+karma;Karma;;;;;;;
+mason_sec;Mason;;;;;;;
+5050;50/50;;;;;;;
+anderson;Anderson;;;;;;;
+weilin;Wei Lin;;;;;;;
+vermaak;Vermaak;;;;;;;
+dempsey;Dempsey;;;;;;;
+takeo;Takeo;;;;;;;
+scorn;Scorn;;;;;;;
+replacer_g;The Replacer (Glaser);;;;;;;
+lucy;Lucy;;;;;;;
+reaperewr3;Reaper EWR-3;;;;;;;
+tedd;T.E.D.D.;;;;;;;
+zaveri;Zaveri;;;;;;;
+jurado;Jurado;;;;;;;
+grimm;Grimm;;;;;;;
+falkner;Falkner;;;;;;;
+razor;Razor;;;;;;;
+kagan;Kagan;;;;;;;
+nikolai_bo7;Nikolai;;;;;;;
+richtofen;Richtofen;;;;;;;
+dorne;Dorne;;;;;;;
+maximus;Maximus;;;;;;;
+theghoul;The Ghoul;;;;;;;
+atwood;Atwood;;;;;;;
+phantom;Phantom;;;;;;;

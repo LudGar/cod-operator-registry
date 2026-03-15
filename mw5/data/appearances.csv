@@ -1,229 +1,229 @@
-operator_id,game,faction,season
-ranger_sg,mw5,SpecGru,
-ghost,mw5,SpecGru,
-price,mw5,SpecGru,
-gaz,mw5,SpecGru,S1
-soap,mw5,SpecGru,
-domino,bo6,Warzone,S3
-ronin,mw5,SpecGru,S2
-alex,mw5,SpecGru,S3
-woods,bo6,Rogue Black Ops,
-woods,mw6,SpecGru,S4
-nikto,mw5,KorTac,S4
-mace,mw5,KorTac,S5
-mace,bo6,Crimson One,S3
-farah,mw5,SpecGru,
-roze,mw5,KorTac,
-velikan,mw5,KorTac,S5
-park,bo6,Rogue Black Ops,
-adler,bo6,Rogue Black Ops,
-sims,bo6,Rogue Black Ops,S5
-weaver,bo6,Rogue Black Ops,
-weaver,bo7,JSOC,
-hudson,bo6,Rogue Black Ops,S3
-stone,bo6,Crimson One,
-stitch,bo6,Rogue Black Ops,S4
-snoop,mw5,SpecGru,S5
-t800,bo6,Crimson One,S2
-chuy,mw5,SpecGru,
-gus,mw5,SpecGru,
-zimo,mw5,SpecGru,
-kleo,mw5,SpecGru,
-nova,mw5,SpecGru,
-gromsko,mw5,SpecGru,
-reyes,mw5,SpecGru,
-luna,mw5,SpecGru,
-pogba,mw5,SpecGru,S1
-messi,mw5,SpecGru,S1
-alejandro,mw5,SpecGru,S3
-durant,mw5,SpecGru,S3
-tim,mw5,SpecGru,S3
-io,mw5,SpecGru,S4
-butch,mw5,SpecGru,S4
-starlight,mw5,SpecGru,S4
-arthur_mw5,mw5,SpecGru,S5
-lara,mw5,SpecGru,S5
-spawn,mw5,SpecGru,S6
-alucard,mw5,SpecGru,S6
-ash,mw5,SpecGru,S6
-inarius,mw5,SpecGru,S6
-cdl_hf,mw5,SpecGru,
-cdl_hm,mw5,SpecGru,
-ranger_kt,mw5,KorTac,
-fender,mw5,KorTac,
-konig,mw5,KorTac,
-calisto,mw5,KorTac,
-hutch,mw5,KorTac,
-horangi,mw5,KorTac,
-oni,mw5,KorTac,
-zero,mw5,KorTac,
-conor,mw5,KorTac,
-aksel,mw5,KorTac,
-stiletto,mw5,KorTac,
-zeus,mw5,KorTac,S1
-neymar,mw5,KorTac,S1
-klaus_mw5,mw5,KorTac,S1
-shredder,mw5,KorTac,S2
-valeria,mw5,KorTac,S3
-atom,mw5,KorTac,S3
-nickmercs,mw5,KorTac,S3
-vega,mw5,KorTac,S4
-homelander,mw5,KorTac,S4
-blacknoir,mw5,KorTac,S4
-izzy,mw5,KorTac,S4
-oz,mw5,KorTac,S5
-graves,mw5,KorTac,S5
-mila,mw5,KorTac,S5
-nicki,mw5,KorTac,S5
-21savage,mw5,KorTac,S5
-v4l3ria,mw5,KorTac,S6
-lilith,mw5,KorTac,S6
-skeletor,mw5,KorTac,S6
-sardaukar,mw5,KorTac,S6
-cdl_af,mw5,KorTac,
-cdl_am,mw5,KorTac,
-blueprint,mw6,SpecGru,
-rocket,mw6,SpecGru,
-byline,mw6,SpecGru,
-scorch,mw6,SpecGru,
-ripper,mw6,SpecGru,
-pathfinder,mw6,SpecGru,
-warrior,mw6,SpecGru,
-riptide,mw6,SpecGru,
-bbq,mw6,SpecGru,
-jabber,mw6,SpecGru,
-jet,mw6,SpecGru,
-lockpick,mw6,SpecGru,
-abolisher,mw6,SpecGru,S1
-paulatreides,mw6,SpecGru,S1
-atrain,mw6,SpecGru,S1
-laswell,mw6,SpecGru,S2
-rickgrimes,mw6,SpecGru,S2
-johndoe,mw6,SpecGru,S2
-chong,mw6,SpecGru,S3
-dbook,mw6,SpecGru,S3
-dupe,mw6,SpecGru,S4
-codyrhodes,mw6,SpecGru,S5
-reymysterio,mw6,SpecGru,S5
-thecrow,mw6,SpecGru,S5
-slamfire,mw6,SpecGru,S6
-daryldixon,mw6,SpecGru,S6
-sam_mw6,mw6,SpecGru,S6
-blaze,mw6,KorTac,
-thirst,mw6,KorTac,
-warden,mw6,KorTac,
-makarov,mw6,KorTac,
-alpine,mw6,KorTac,
-enigma,mw6,KorTac,
-bantam,mw6,KorTac,
-doc,mw6,KorTac,
-raptor,mw6,KorTac,
-corso,mw6,KorTac,
-swagger,mw6,KorTac,
-nolan,mw6,KorTac,S1
-dokkaebi,mw6,KorTac,S1
-feydrautha,mw6,KorTac,S1
-firecracker,mw6,KorTac,S1
-michonne,mw6,KorTac,S2
-banshee,mw6,KorTac,S3
-hush,mw6,KorTac,S3
-stasis,mw6,KorTac,S3
-cheech,mw6,KorTac,S3
-hammer,mw6,KorTac,S4
-void,mw6,KorTac,S4
-copy,mw6,KorTac,S4
-rhearipley,mw6,KorTac,S5
-ares,mw6,KorTac,S5
-reckoner,mw6,KorTac,S5
-myers,mw6,KorTac,S6
-alone,mw6,KorTac,S6
-artclown,mw6,KorTac,S6
-nazir,bo6,Rogue Black Ops,
-westpoint,bo6,Rogue Black Ops,
-bayan,bo6,Rogue Black Ops,
-alvarez,bo6,Rogue Black Ops,
-payne,bo6,Rogue Black Ops,
-marshall,bo6,Rogue Black Ops,
-maya,bo6,Rogue Black Ops,
-maya,bo7,JSOC,
-sev,bo6,Rogue Black Ops,S1
-goliath,bo6,Rogue Black Ops,S1
-replacer_s,bo6,Rogue Black Ops,S1
-replacer_s,bo7,JSOC,S1
-samuels,bo6,Rogue Black Ops,S1
-samuels,bo7,JSOC,
-lionmask,bo6,Rogue Black Ops,S1
-leonardo,bo6,Rogue Black Ops,S2
-donatello,bo6,Rogue Black Ops,S2
-raphael,bo6,Rogue Black Ops,S2
-michelangelo,bo6,Rogue Black Ops,S2
-splinter,bo6,Rogue Black Ops,S2
-jay,bo6,Rogue Black Ops,S3
-silentbob,bo6,Rogue Black Ops,S3
-sethrogen,bo6,Rogue Black Ops,S3
-beavis,bo6,Rogue Black Ops,S4
-butthead,bo6,Rogue Black Ops,S4
-roger,bo6,Rogue Black Ops,S4
-solace,bo6,Rogue Black Ops,S5
-reznov,bo6,Rogue Black Ops,S5
-predator,bo6,Rogue Black Ops,S6
-feralpred,bo6,Rogue Black Ops,S6
-dread,bo6,Rogue Black Ops,S6
-dek,bo6,Rogue Black Ops,S6
-tiffany,bo6,Rogue Black Ops,S6
-brutus,bo6,Crimson One,
-klausbo6,bo6,Crimson One,
-rossi,bo6,Crimson One,
-caine,bo6,Crimson One,
-niran,bo6,Crimson One,
-toro,bo6,Crimson One,
-bailey,bo6,Crimson One,
-carver,bo6,Crimson One,
-carver,bo7,The Guild,
-grey,bo6,Crimson One,
-grey,bo7,The Guild,
-frontman,bo6,Crimson One,S1
-maskedsol,bo6,Crimson One,S1
-maskedmgr,bo6,Crimson One,S1
-maskedwkr,bo6,Crimson One,S1
-younghee,bo6,Crimson One,S1
-panthermask,bo6,Crimson One,S1
-nocturne,bo6,Crimson One,S2
-vortex,bo6,Crimson One,S2
-r0z3,bo6,Crimson One,S3
-johnbo,bo6,Crimson One,S3
-omen,bo6,Crimson One,S4
-evemacarro,bo6,Crimson One,S4
-buzzcut,bo6,Crimson One,S4
-todd,bo6,Crimson One,S4
-stansmith,bo6,Crimson One,S4
-fisherman,bo6,Crimson One,S5
-jason,bo6,Crimson One,S6
-chucky,bo6,Crimson One,S6
-harper,bo7,JSOC,
-karma,bo7,JSOC,
-mason_sec,bo7,JSOC,
-5050,bo7,JSOC,
-anderson,bo7,JSOC,
-weilin,bo7,JSOC,
-vermaak,bo7,JSOC,
-dempsey,bo7,JSOC,
-takeo,bo7,JSOC,
-scorn,bo7,JSOC,S1
-replacer_g,bo7,JSOC,S1
-lucy,bo7,JSOC,S1
-reaperewr3,bo7,The Guild,
-tedd,bo7,The Guild,
-zaveri,bo7,The Guild,
-jurado,bo7,The Guild,
-grimm,bo7,The Guild,
-falkner,bo7,The Guild,
-razor,bo7,The Guild,
-kagan,bo7,The Guild,
-nikolai_bo7,bo7,The Guild,
-richtofen,bo7,The Guild,
-dorne,bo7,The Guild,S1
-maximus,bo7,The Guild,S1
-theghoul,bo7,The Guild,S1
-atwood,bo7,The Guild,S2
-phantom,bo7,The Guild,S2
+operator_id;game;faction;season
+ranger_sg;mw5;SpecGru;
+ghost;mw5;SpecGru;
+price;mw5;SpecGru;
+gaz;mw5;SpecGru;S1
+soap;mw5;SpecGru;
+domino;bo6;Warzone;S3
+ronin;mw5;SpecGru;S2
+alex;mw5;SpecGru;S3
+woods;bo6;Rogue Black Ops;
+woods;mw6;SpecGru;S4
+nikto;mw5;KorTac;S4
+mace;mw5;KorTac;S5
+mace;bo6;Crimson One;S3
+farah;mw5;SpecGru;
+roze;mw5;KorTac;
+velikan;mw5;KorTac;S5
+park;bo6;Rogue Black Ops;
+adler;bo6;Rogue Black Ops;
+sims;bo6;Rogue Black Ops;S5
+weaver;bo6;Rogue Black Ops;
+weaver;bo7;JSOC;
+hudson;bo6;Rogue Black Ops;S3
+stone;bo6;Crimson One;
+stitch;bo6;Rogue Black Ops;S4
+snoop;mw5;SpecGru;S5
+t800;bo6;Crimson One;S2
+chuy;mw5;SpecGru;
+gus;mw5;SpecGru;
+zimo;mw5;SpecGru;
+kleo;mw5;SpecGru;
+nova;mw5;SpecGru;
+gromsko;mw5;SpecGru;
+reyes;mw5;SpecGru;
+luna;mw5;SpecGru;
+pogba;mw5;SpecGru;S1
+messi;mw5;SpecGru;S1
+alejandro;mw5;SpecGru;S3
+durant;mw5;SpecGru;S3
+tim;mw5;SpecGru;S3
+io;mw5;SpecGru;S4
+butch;mw5;SpecGru;S4
+starlight;mw5;SpecGru;S4
+arthur_mw5;mw5;SpecGru;S5
+lara;mw5;SpecGru;S5
+spawn;mw5;SpecGru;S6
+alucard;mw5;SpecGru;S6
+ash;mw5;SpecGru;S6
+inarius;mw5;SpecGru;S6
+cdl_hf;mw5;SpecGru;
+cdl_hm;mw5;SpecGru;
+ranger_kt;mw5;KorTac;
+fender;mw5;KorTac;
+konig;mw5;KorTac;
+calisto;mw5;KorTac;
+hutch;mw5;KorTac;
+horangi;mw5;KorTac;
+oni;mw5;KorTac;
+zero;mw5;KorTac;
+conor;mw5;KorTac;
+aksel;mw5;KorTac;
+stiletto;mw5;KorTac;
+zeus;mw5;KorTac;S1
+neymar;mw5;KorTac;S1
+klaus_mw5;mw5;KorTac;S1
+shredder;mw5;KorTac;S2
+valeria;mw5;KorTac;S3
+atom;mw5;KorTac;S3
+nickmercs;mw5;KorTac;S3
+vega;mw5;KorTac;S4
+homelander;mw5;KorTac;S4
+blacknoir;mw5;KorTac;S4
+izzy;mw5;KorTac;S4
+oz;mw5;KorTac;S5
+graves;mw5;KorTac;S5
+mila;mw5;KorTac;S5
+nicki;mw5;KorTac;S5
+21savage;mw5;KorTac;S5
+v4l3ria;mw5;KorTac;S6
+lilith;mw5;KorTac;S6
+skeletor;mw5;KorTac;S6
+sardaukar;mw5;KorTac;S6
+cdl_af;mw5;KorTac;
+cdl_am;mw5;KorTac;
+blueprint;mw6;SpecGru;
+rocket;mw6;SpecGru;
+byline;mw6;SpecGru;
+scorch;mw6;SpecGru;
+ripper;mw6;SpecGru;
+pathfinder;mw6;SpecGru;
+warrior;mw6;SpecGru;
+riptide;mw6;SpecGru;
+bbq;mw6;SpecGru;
+jabber;mw6;SpecGru;
+jet;mw6;SpecGru;
+lockpick;mw6;SpecGru;
+abolisher;mw6;SpecGru;S1
+paulatreides;mw6;SpecGru;S1
+atrain;mw6;SpecGru;S1
+laswell;mw6;SpecGru;S2
+rickgrimes;mw6;SpecGru;S2
+johndoe;mw6;SpecGru;S2
+chong;mw6;SpecGru;S3
+dbook;mw6;SpecGru;S3
+dupe;mw6;SpecGru;S4
+codyrhodes;mw6;SpecGru;S5
+reymysterio;mw6;SpecGru;S5
+thecrow;mw6;SpecGru;S5
+slamfire;mw6;SpecGru;S6
+daryldixon;mw6;SpecGru;S6
+sam_mw6;mw6;SpecGru;S6
+blaze;mw6;KorTac;
+thirst;mw6;KorTac;
+warden;mw6;KorTac;
+makarov;mw6;KorTac;
+alpine;mw6;KorTac;
+enigma;mw6;KorTac;
+bantam;mw6;KorTac;
+doc;mw6;KorTac;
+raptor;mw6;KorTac;
+corso;mw6;KorTac;
+swagger;mw6;KorTac;
+nolan;mw6;KorTac;S1
+dokkaebi;mw6;KorTac;S1
+feydrautha;mw6;KorTac;S1
+firecracker;mw6;KorTac;S1
+michonne;mw6;KorTac;S2
+banshee;mw6;KorTac;S3
+hush;mw6;KorTac;S3
+stasis;mw6;KorTac;S3
+cheech;mw6;KorTac;S3
+hammer;mw6;KorTac;S4
+void;mw6;KorTac;S4
+copy;mw6;KorTac;S4
+rhearipley;mw6;KorTac;S5
+ares;mw6;KorTac;S5
+reckoner;mw6;KorTac;S5
+myers;mw6;KorTac;S6
+alone;mw6;KorTac;S6
+artclown;mw6;KorTac;S6
+nazir;bo6;Rogue Black Ops;
+westpoint;bo6;Rogue Black Ops;
+bayan;bo6;Rogue Black Ops;
+alvarez;bo6;Rogue Black Ops;
+payne;bo6;Rogue Black Ops;
+marshall;bo6;Rogue Black Ops;
+maya;bo6;Rogue Black Ops;
+maya;bo7;JSOC;
+sev;bo6;Rogue Black Ops;S1
+goliath;bo6;Rogue Black Ops;S1
+replacer_s;bo6;Rogue Black Ops;S1
+replacer_s;bo7;JSOC;S1
+samuels;bo6;Rogue Black Ops;S1
+samuels;bo7;JSOC;
+lionmask;bo6;Rogue Black Ops;S1
+leonardo;bo6;Rogue Black Ops;S2
+donatello;bo6;Rogue Black Ops;S2
+raphael;bo6;Rogue Black Ops;S2
+michelangelo;bo6;Rogue Black Ops;S2
+splinter;bo6;Rogue Black Ops;S2
+jay;bo6;Rogue Black Ops;S3
+silentbob;bo6;Rogue Black Ops;S3
+sethrogen;bo6;Rogue Black Ops;S3
+beavis;bo6;Rogue Black Ops;S4
+butthead;bo6;Rogue Black Ops;S4
+roger;bo6;Rogue Black Ops;S4
+solace;bo6;Rogue Black Ops;S5
+reznov;bo6;Rogue Black Ops;S5
+predator;bo6;Rogue Black Ops;S6
+feralpred;bo6;Rogue Black Ops;S6
+dread;bo6;Rogue Black Ops;S6
+dek;bo6;Rogue Black Ops;S6
+tiffany;bo6;Rogue Black Ops;S6
+brutus;bo6;Crimson One;
+klausbo6;bo6;Crimson One;
+rossi;bo6;Crimson One;
+caine;bo6;Crimson One;
+niran;bo6;Crimson One;
+toro;bo6;Crimson One;
+bailey;bo6;Crimson One;
+carver;bo6;Crimson One;
+carver;bo7;The Guild;
+grey;bo6;Crimson One;
+grey;bo7;The Guild;
+frontman;bo6;Crimson One;S1
+maskedsol;bo6;Crimson One;S1
+maskedmgr;bo6;Crimson One;S1
+maskedwkr;bo6;Crimson One;S1
+younghee;bo6;Crimson One;S1
+panthermask;bo6;Crimson One;S1
+nocturne;bo6;Crimson One;S2
+vortex;bo6;Crimson One;S2
+r0z3;bo6;Crimson One;S3
+johnbo;bo6;Crimson One;S3
+omen;bo6;Crimson One;S4
+evemacarro;bo6;Crimson One;S4
+buzzcut;bo6;Crimson One;S4
+todd;bo6;Crimson One;S4
+stansmith;bo6;Crimson One;S4
+fisherman;bo6;Crimson One;S5
+jason;bo6;Crimson One;S6
+chucky;bo6;Crimson One;S6
+harper;bo7;JSOC;
+karma;bo7;JSOC;
+mason_sec;bo7;JSOC;
+5050;bo7;JSOC;
+anderson;bo7;JSOC;
+weilin;bo7;JSOC;
+vermaak;bo7;JSOC;
+dempsey;bo7;JSOC;
+takeo;bo7;JSOC;
+scorn;bo7;JSOC;S1
+replacer_g;bo7;JSOC;S1
+lucy;bo7;JSOC;S1
+reaperewr3;bo7;The Guild;
+tedd;bo7;The Guild;
+zaveri;bo7;The Guild;
+jurado;bo7;The Guild;
+grimm;bo7;The Guild;
+falkner;bo7;The Guild;
+razor;bo7;The Guild;
+kagan;bo7;The Guild;
+nikolai_bo7;bo7;The Guild;
+richtofen;bo7;The Guild;
+dorne;bo7;The Guild;S1
+maximus;bo7;The Guild;S1
+theghoul;bo7;The Guild;S1
+atwood;bo7;The Guild;S2
+phantom;bo7;The Guild;S2

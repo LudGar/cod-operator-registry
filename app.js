@@ -10,16 +10,16 @@ let OPERATORS = [];
 // ── CSV loader ────────────────────────────────────────────────────────────────
 function parseCSV(text){
   const rows=[], lines=text.trim().split('\n');
-  const headers=lines[0].split(',');
+  const headers=lines[0].split(';');
   for(let i=1;i<lines.length;i++){
-    // Handle quoted fields with commas inside
+    // Handle quoted fields with semicolons inside
     const fields=[], line=lines[i];
     let cur='', inQ=false;
     for(let c=0;c<line.length;c++){
       const ch=line[c];
       if(ch==='"' && !inQ){ inQ=true; }
       else if(ch==='"' && inQ){ inQ=false; }
-      else if(ch===',' && !inQ){ fields.push(cur); cur=''; }
+      else if(ch===';' && !inQ){ fields.push(cur); cur=''; }
       else { cur+=ch; }
     }
     fields.push(cur);
