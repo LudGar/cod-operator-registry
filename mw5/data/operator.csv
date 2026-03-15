@@ -1,9 +1,9 @@
-operator_id;name;alias;icon;citizenship;language;status
-west_milsim;[UNKNOWN];SpecGru;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active;[UNKNOWN]
-west_ghost;Simon Riley;Ghost;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;United Kingdom;English;Active
-west_price;Johnathan Price;Price;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;United Kingdom;English;Active
-west_kyle;Kyle Garrick;Gaz;mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png;United Kingdom;English;Active
-west_soap;John MacTavish;Soap;mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png;United Kingdom;English;Active
+operator_id;name;alias;icon;citizenship;language;status;
+west_milsim;[UNKNOWN];SpecGru;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active;[UNKNOWN];
+west_ghost;Simon Riley;Ghost;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;United Kingdom;English;Active;
+west_price;Johnathan Price;Price;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;United Kingdom;English;Active;
+west_kyle;Kyle Garrick;Gaz;mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png;United Kingdom;English;Active;
+west_soap;John MacTavish;Soap;mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png;United Kingdom;English;Active;
 west_ronin;Daniel Shinoda;Ronin;mw5/icons/ui_operator_west_ronin_portrait_1_1_lg.png;American;English;Active;
 west_alex;Alex Keller;Alex;mw5/icons/ui_operator_west_alex_portrait_1_1_lg.png;American;English;Active;
 east_nikto;[UNKNOWN];Nikto;mw5/icons/ui_operator_east_nikto_portrait_1_1_lg.png;Russian;English;Active;
