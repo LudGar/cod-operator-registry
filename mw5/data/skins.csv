@@ -1,0 +1,322 @@
+operator_id,skin_name,skin_path
+ranger_sg,MILSIM 1 1,mw5/operator/ui_loot_operator_west_milsim_1_1_lg.png
+ranger_sg,MILSIM 1 2,mw5/operator/ui_loot_operator_west_milsim_1_2_lg.png
+ranger_sg,MILSIM 1 3,mw5/operator/ui_loot_operator_west_milsim_1_3_lg.png
+ranger_sg,MILSIM 2 1,mw5/operator/ui_loot_operator_west_milsim_2_1_lg.png
+ranger_sg,MILSIM 3 1,mw5/operator/ui_loot_operator_west_milsim_3_1_lg.png
+ranger_sg,MILSIM 4 1,mw5/operator/ui_loot_operator_west_milsim_4_1_lg.png
+ranger_sg,MILSIM ANTI TERROR 1 1,mw5/operator/ui_loot_operator_west_milsim_anti_terror_1_1_lg.png
+ghost,Poltergeist,mw5/operator/ui_loot_operator_west_ghost_10_1_lg.png
+ghost,Banshee,mw5/operator/ui_loot_operator_west_ghost_11_1_lg.png
+ghost,Nightshade,mw5/operator/ui_loot_operator_west_ghost_12_1_lg.png
+ghost,Ghost,mw5/operator/ui_loot_operator_west_ghost_1_1_lg.png
+ghost,Spectral,mw5/operator/ui_loot_operator_west_ghost_2_1_lg.png
+ghost,Haunted,mw5/operator/ui_loot_operator_west_ghost_3_1_lg.png
+ghost,Haunted (Variant),mw5/operator/ui_loot_operator_west_ghost_3_2_lg.png
+ghost,Wraith,mw5/operator/ui_loot_operator_west_ghost_4_1_lg.png
+ghost,Shadow,mw5/operator/ui_loot_operator_west_ghost_5_1_lg.png
+ghost,Phantom,mw5/operator/ui_loot_operator_west_ghost_6_1_lg.png
+ghost,Specter,mw5/operator/ui_loot_operator_west_ghost_7_1_lg.png
+ghost,Apparition,mw5/operator/ui_loot_operator_west_ghost_8_1_lg.png
+ghost,Revenant,mw5/operator/ui_loot_operator_west_ghost_9_1_lg.png
+ghost,Revenant (Variant),mw5/operator/ui_loot_operator_west_ghost_9_2_lg.png
+ghost,Desert Ghost (Variant),mw5/operator/ui_loot_operator_west_ghost_desert_1_2_lg.png
+ghost,Desert Ghost,mw5/operator/ui_loot_operator_west_ghost_desert_lg.png
+ghost,Nightwar (Variant),mw5/operator/ui_loot_operator_west_ghost_nightwar_1_2_lg.png
+ghost,Nightwar,mw5/operator/ui_loot_operator_west_ghost_nightwar_lg.png
+price,Price,mw5/operator/ui_loot_operator_west_price_1_1_lg.png
+price,Mil-Sim,mw5/operator/ui_loot_operator_west_price_2_1_lg.png
+price,Veteran,mw5/operator/ui_loot_operator_west_price_3_1_lg.png
+price,Desert,mw5/operator/ui_loot_operator_west_price_desert_lg.png
+price,Highrise,mw5/operator/ui_loot_operator_west_price_highrise_lg.png
+price,Intercept,mw5/operator/ui_loot_operator_west_price_intercept_lg.png
+price,Raid,mw5/operator/ui_loot_operator_west_price_raid_lg.png
+gaz,Convoy,mw5/operator/ui_loot_operator_west_kyle_con_lg.png
+gaz,Highrise (Variant),mw5/operator/ui_loot_operator_west_kyle_highrise_1_2_lg.png
+gaz,Highrise,mw5/operator/ui_loot_operator_west_kyle_highrise_lg.png
+gaz,Intercept,mw5/operator/ui_loot_operator_west_kyle_int_lg.png
+gaz,Maritime,mw5/operator/ui_loot_operator_west_kyle_mar_lg.png
+soap,Soap,mw5/operator/ui_loot_operator_west_soap_1_1_lg.png
+soap,Mil-Sim,mw5/operator/ui_loot_operator_west_soap_2_1_lg.png
+soap,Urban,mw5/operator/ui_loot_operator_west_soap_3_1_lg.png
+soap,Tactical,mw5/operator/ui_loot_operator_west_soap_4_1_lg.png
+soap,Tactical (Variant),mw5/operator/ui_loot_operator_west_soap_4_2_lg.png
+soap,Mexico,mw5/operator/ui_loot_operator_west_soap_mexico_lg.png
+soap,Nightwar (Variant),mw5/operator/ui_loot_operator_west_soap_nightwar_1_2_lg.png
+soap,Nightwar,mw5/operator/ui_loot_operator_west_soap_nightwar_lg.png
+ronin,Ronin,mw5/operator/ui_loot_operator_west_ronin_1_1_lg.png
+ronin,Mil-Sim,mw5/operator/ui_loot_operator_west_ronin_2_1_lg.png
+ronin,Urban,mw5/operator/ui_loot_operator_west_ronin_3_1_lg.png
+ronin,Shadow,mw5/operator/ui_loot_operator_west_ronin_4_1_lg.png
+ronin,Storm,mw5/operator/ui_loot_operator_west_ronin_5_1_lg.png
+alex,ALEX 1 1,mw5/operator/ui_loot_operator_west_alex_1_1_lg.png
+alex,ALEX 2 1,mw5/operator/ui_loot_operator_west_alex_2_1_lg.png
+alex,ALEX 3 1,mw5/operator/ui_loot_operator_west_alex_3_1_lg.png
+alex,ALEX 4 1,mw5/operator/ui_loot_operator_west_alex_4_1_lg.png
+alex,ALEX 5 1,mw5/operator/ui_loot_operator_west_alex_5_1_lg.png
+alex,ALEX 5 2,mw5/operator/ui_loot_operator_west_alex_5_2_lg.png
+farah,Farah,mw5/operator/ui_loot_operator_west_farah_1_1_lg.png
+farah,Farah (Variant),mw5/operator/ui_loot_operator_west_farah_1_2_lg.png
+farah,Mil-Sim,mw5/operator/ui_loot_operator_west_farah_2_1_lg.png
+farah,Convoy BlackCell,mw5/operator/ui_loot_operator_west_farah_convoy_bc_lg.png
+farah,Convoy,mw5/operator/ui_loot_operator_west_farah_convoy_lg.png
+snoop,Snoop Dogg,mw5/operator/ui_loot_operator_west_snoop_1_1_lg.png
+snoop,Snoop Dogg (Variant),mw5/operator/ui_loot_operator_west_snoop_1_2_lg.png
+chuy,CHILI 10 1,mw5/operator/ui_loot_operator_west_chili_10_1_lg.png
+chuy,CHILI 1 1,mw5/operator/ui_loot_operator_west_chili_1_1_lg.png
+chuy,CHILI 2 1,mw5/operator/ui_loot_operator_west_chili_2_1_lg.png
+chuy,CHILI 3 1,mw5/operator/ui_loot_operator_west_chili_3_1_lg.png
+chuy,CHILI 4 1,mw5/operator/ui_loot_operator_west_chili_4_1_lg.png
+chuy,CHILI 5 1,mw5/operator/ui_loot_operator_west_chili_5_1_lg.png
+chuy,CHILI 6 1,mw5/operator/ui_loot_operator_west_chili_6_1_lg.png
+chuy,CHILI 7 1,mw5/operator/ui_loot_operator_west_chili_7_1_lg.png
+chuy,CHILI 7 2,mw5/operator/ui_loot_operator_west_chili_7_2_lg.png
+chuy,CHILI 8 1,mw5/operator/ui_loot_operator_west_chili_8_1_lg.png
+chuy,CHILI 8 2,mw5/operator/ui_loot_operator_west_chili_8_2_lg.png
+chuy,CHILI 9 1,mw5/operator/ui_loot_operator_west_chili_9_1_lg.png
+gus,GUS 1 1,mw5/operator/ui_loot_operator_west_gus_1_1_lg.png
+gus,GUS 2 1,mw5/operator/ui_loot_operator_west_gus_2_1_lg.png
+gus,GUS 3 1,mw5/operator/ui_loot_operator_west_gus_3_1_lg.png
+gus,GUS 4 1,mw5/operator/ui_loot_operator_west_gus_4_1_lg.png
+gus,GUS 5 1,mw5/operator/ui_loot_operator_west_gus_5_1_lg.png
+gus,GUS 5 2,mw5/operator/ui_loot_operator_west_gus_5_2_lg.png
+gus,GUS 6 1,mw5/operator/ui_loot_operator_west_gus_6_1_lg.png
+gus,GUS 6 2,mw5/operator/ui_loot_operator_west_gus_6_2_lg.png
+gus,GUS 7 1,mw5/operator/ui_loot_operator_west_gus_7_1_lg.png
+gus,GUS 8 1,mw5/operator/ui_loot_operator_west_gus_8_1_lg.png
+zimo,ZIMO 1 1,mw5/operator/ui_loot_operator_west_zimo_1_1_lg.png
+zimo,ZIMO 1 2,mw5/operator/ui_loot_operator_west_zimo_1_2_lg.png
+zimo,ZIMO 1 3,mw5/operator/ui_loot_operator_west_zimo_1_3_lg.png
+zimo,ZIMO 1 5,mw5/operator/ui_loot_operator_west_zimo_1_5_lg.png
+zimo,ZIMO 3 1,mw5/operator/ui_loot_operator_west_zimo_3_1_lg.png
+zimo,ZIMO 4 1,mw5/operator/ui_loot_operator_west_zimo_4_1_lg.png
+kleo,KLEO 1 1,mw5/operator/ui_loot_operator_west_kleo_1_1_lg.png
+kleo,KLEO 1 2,mw5/operator/ui_loot_operator_west_kleo_1_2_lg.png
+kleo,KLEO 1 3,mw5/operator/ui_loot_operator_west_kleo_1_3_lg.png
+kleo,KLEO 2 1,mw5/operator/ui_loot_operator_west_kleo_2_1_lg.png
+kleo,KLEO 3 1,mw5/operator/ui_loot_operator_west_kleo_3_1_lg.png
+kleo,KLEO 4 1,mw5/operator/ui_loot_operator_west_kleo_4_1_lg.png
+kleo,KLEO 5 1,mw5/operator/ui_loot_operator_west_kleo_5_1_lg.png
+kleo,KLEO 6 1,mw5/operator/ui_loot_operator_west_kleo_6_1_lg.png
+kleo,KLEO 7 1,mw5/operator/ui_loot_operator_west_kleo_7_1_lg.png
+kleo,KLEO 7 2,mw5/operator/ui_loot_operator_west_kleo_7_2_lg.png
+kleo,KLEO 8 1,mw5/operator/ui_loot_operator_west_kleo_8_1_lg.png
+nova,NOVA 1 1,mw5/operator/ui_loot_operator_east_nova_1_1_lg.png
+nova,NOVA 2 1,mw5/operator/ui_loot_operator_east_nova_2_1_lg.png
+nova,NOVA 3 1,mw5/operator/ui_loot_operator_east_nova_3_1_lg.png
+nova,NOVA 4 1,mw5/operator/ui_loot_operator_east_nova_4_1_lg.png
+nova,NOVA 6 1,mw5/operator/ui_loot_operator_east_nova_6_1_lg.png
+nova,NOVA 7 1,mw5/operator/ui_loot_operator_east_nova_7_1_lg.png
+nova,NOVA 8 1,mw5/operator/ui_loot_operator_east_nova_8_1_lg.png
+nova,NOVA CQ,mw5/operator/ui_loot_operator_east_nova_cq_lg.png
+gromsko,GROMSKO 4 1,mw5/operator/ui_loot_operator_west_gromsko_4_1_lg.png
+gromsko,GROMSKO 5 1,mw5/operator/ui_loot_operator_west_gromsko_5_1_lg.png
+reyes,REYES 1 1,mw5/operator/ui_loot_operator_west_reyes_1_1_lg.png
+reyes,REYES 2 1,mw5/operator/ui_loot_operator_west_reyes_2_1_lg.png
+reyes,REYES 3 1,mw5/operator/ui_loot_operator_west_reyes_3_1_lg.png
+reyes,REYES 4 1,mw5/operator/ui_loot_operator_west_reyes_4_1_lg.png
+reyes,REYES 5 1,mw5/operator/ui_loot_operator_west_reyes_5_1_lg.png
+reyes,REYES 6 1,mw5/operator/ui_loot_operator_west_reyes_6_1_lg.png
+reyes,REYES 7 1,mw5/operator/ui_loot_operator_west_reyes_7_1_lg.png
+reyes,REYES 8 1,mw5/operator/ui_loot_operator_west_reyes_8_1_lg.png
+luna,Luna,mw5/operator/ui_loot_operator_west_luna_3_1_lg.png
+pogba,Pogba,mw5/operator/ui_loot_operator_west_pogba_1_1_lg.png
+messi,Messi,mw5/operator/ui_loot_operator_west_messi_1_1_lg.png
+alejandro,Alejandro,mw5/operator/ui_loot_operator_west_alejandro_1_1_lg.png
+alejandro,Alejandro (Variant),mw5/operator/ui_loot_operator_west_alejandro_1_2_lg.png
+alejandro,El General,mw5/operator/ui_loot_operator_west_alejandro_2_1_lg.png
+alejandro,El General (Variant),mw5/operator/ui_loot_operator_west_alejandro_2_2_lg.png
+alejandro,Cartel,mw5/operator/ui_loot_operator_west_alejandro_3_1_lg.png
+alejandro,Cartel (Variant),mw5/operator/ui_loot_operator_west_alejandro_3_2_lg.png
+tim,Tim,mw5/operator/ui_loot_operator_west_tim_1_1_lg.png
+io,Io,mw5/operator/ui_loot_operator_west_blackcell_2_1_lg.png
+butch,Butch,mw5/operator/ui_loot_operator_west_freedom_2_1_lg.png
+starlight,Starlight,mw5/operator/ui_loot_operator_west_starlight_1_1_lg.png
+lara,Lara Croft,mw5/operator/ui_loot_operator_west_lc_1_1_lg.png
+spawn,Spawn,mw5/operator/ui_loot_operator_west_spawn_1_1_lg.png
+spawn,Spawn (Variant),mw5/operator/ui_loot_operator_west_spawn_1_2_lg.png
+spawn,Hellspawn,mw5/operator/ui_loot_operator_west_spawn_2_1_lg.png
+spawn,Hellspawn (Variant),mw5/operator/ui_loot_operator_west_spawn_2_2_lg.png
+alucard,Alucard,mw5/operator/ui_loot_operator_west_hellsing_1_1_lg.png
+ash,Ash,mw5/operator/ui_loot_operator_west_ash_1_1_lg.png
+inarius,Inarius,mw5/operator/ui_loot_operator_west_inarius_1_1_lg.png
+cdl_hf,CDL FEMALE BREACH,mw5/operator/ui_loot_operator_west_cdl_female_breach_lg.png
+cdl_hf,CDL FEMALE FAZE,mw5/operator/ui_loot_operator_west_cdl_female_faze_lg.png
+cdl_hf,CDL FEMALE GUERRILLAS,mw5/operator/ui_loot_operator_west_cdl_female_guerrillas_lg.png
+cdl_hf,CDL FEMALE LEGION,mw5/operator/ui_loot_operator_west_cdl_female_legion_lg.png
+cdl_hf,CDL FEMALE MUTINEERS,mw5/operator/ui_loot_operator_west_cdl_female_mutineers_lg.png
+cdl_hf,CDL FEMALE OPTIC,mw5/operator/ui_loot_operator_west_cdl_female_optic_lg.png
+cdl_hf,CDL FEMALE RAVENS,mw5/operator/ui_loot_operator_west_cdl_female_ravens_lg.png
+cdl_hf,CDL FEMALE ROKKR,mw5/operator/ui_loot_operator_west_cdl_female_rokkr_lg.png
+cdl_hf,CDL FEMALE SUBLINERS,mw5/operator/ui_loot_operator_west_cdl_female_subliners_lg.png
+cdl_hf,CDL FEMALE SURGE,mw5/operator/ui_loot_operator_west_cdl_female_surge_lg.png
+cdl_hf,CDL FEMALE THIEVES,mw5/operator/ui_loot_operator_west_cdl_female_thieves_lg.png
+cdl_hf,CDL FEMALE ULTRA,mw5/operator/ui_loot_operator_west_cdl_female_ultra_lg.png
+cdl_hf,CDL FEMALE UNBRANDED,mw5/operator/ui_loot_operator_west_cdl_female_unbranded_lg.png
+cdl_hm,CDL MALE BREACH,mw5/operator/ui_loot_operator_west_cdl_male_breach_lg.png
+cdl_hm,CDL MALE FAZE,mw5/operator/ui_loot_operator_west_cdl_male_faze_lg.png
+cdl_hm,CDL MALE GUERRILLAS,mw5/operator/ui_loot_operator_west_cdl_male_guerrillas_lg.png
+cdl_hm,CDL MALE LEGION,mw5/operator/ui_loot_operator_west_cdl_male_legion_lg.png
+cdl_hm,CDL MALE MUTINEERS,mw5/operator/ui_loot_operator_west_cdl_male_mutineers_lg.png
+cdl_hm,CDL MALE OPTIC,mw5/operator/ui_loot_operator_west_cdl_male_optic_lg.png
+cdl_hm,CDL MALE RAVENS,mw5/operator/ui_loot_operator_west_cdl_male_ravens_lg.png
+cdl_hm,CDL MALE ROKKR,mw5/operator/ui_loot_operator_west_cdl_male_rokkr_lg.png
+cdl_hm,CDL MALE SUBLINERS,mw5/operator/ui_loot_operator_west_cdl_male_subliners_lg.png
+cdl_hm,CDL MALE SURGE,mw5/operator/ui_loot_operator_west_cdl_male_surge_lg.png
+cdl_hm,CDL MALE THIEVES,mw5/operator/ui_loot_operator_west_cdl_male_thieves_lg.png
+cdl_hm,CDL MALE ULTRA,mw5/operator/ui_loot_operator_west_cdl_male_ultra_lg.png
+cdl_hm,CDL MALE UNBRANDED,mw5/operator/ui_loot_operator_west_cdl_male_unbranded_lg.png
+ranger_kt,MILSIM 1 1,mw5/operator/ui_loot_operator_east_milsim_1_1_lg.png
+ranger_kt,MILSIM 1 2,mw5/operator/ui_loot_operator_east_milsim_1_2_lg.png
+ranger_kt,MILSIM 1 3,mw5/operator/ui_loot_operator_east_milsim_1_3_lg.png
+ranger_kt,MILSIM 2 1,mw5/operator/ui_loot_operator_east_milsim_2_1_lg.png
+ranger_kt,MILSIM 3 1,mw5/operator/ui_loot_operator_east_milsim_3_1_lg.png
+ranger_kt,MILSIM 4 1,mw5/operator/ui_loot_operator_east_milsim_4_1_lg.png
+fender,FENDER 1 1,mw5/operator/ui_loot_operator_west_fender_1_1_lg.png
+fender,FENDER 2 1,mw5/operator/ui_loot_operator_west_fender_2_1_lg.png
+fender,FENDER 4 1,mw5/operator/ui_loot_operator_west_fender_4_1_lg.png
+fender,FENDER 5 1,mw5/operator/ui_loot_operator_west_fender_5_1_lg.png
+fender,FENDER 6 1,mw5/operator/ui_loot_operator_west_fender_6_1_lg.png
+fender,FENDER 7 1,mw5/operator/ui_loot_operator_west_fender_7_1_lg.png
+fender,FENDER 8 1,mw5/operator/ui_loot_operator_west_fender_8_1_lg.png
+fender,FENDER 9 1,mw5/operator/ui_loot_operator_west_fender_9_1_lg.png
+konig,Hunter,mw5/operator/ui_loot_operator_east_koenig_10_1_lg.png
+konig,Phantom,mw5/operator/ui_loot_operator_east_koenig_11_1_lg.png
+konig,Blackout,mw5/operator/ui_loot_operator_east_koenig_12_1_lg.png
+konig,Blackout (Variant),mw5/operator/ui_loot_operator_east_koenig_12_2_lg.png
+konig,König,mw5/operator/ui_loot_operator_east_koenig_4_1_lg.png
+konig,Mil-Sim,mw5/operator/ui_loot_operator_east_koenig_5_1_lg.png
+konig,Alpine,mw5/operator/ui_loot_operator_east_koenig_6_1_lg.png
+konig,Urban,mw5/operator/ui_loot_operator_east_koenig_7_1_lg.png
+konig,Shadow,mw5/operator/ui_loot_operator_east_koenig_8_1_lg.png
+calisto,CALISTO 1 1,mw5/operator/ui_loot_operator_east_calisto_1_1_lg.png
+calisto,CALISTO 2 1,mw5/operator/ui_loot_operator_east_calisto_2_1_lg.png
+calisto,CALISTO 3 1,mw5/operator/ui_loot_operator_east_calisto_3_1_lg.png
+calisto,CALISTO 4 1,mw5/operator/ui_loot_operator_east_calisto_4_1_lg.png
+calisto,CALISTO 5 1,mw5/operator/ui_loot_operator_east_calisto_5_1_lg.png
+calisto,CALISTO 6 1,mw5/operator/ui_loot_operator_east_calisto_6_1_lg.png
+calisto,CALISTO 7 1,mw5/operator/ui_loot_operator_east_calisto_7_1_lg.png
+hutch,HUTCH 10 1,mw5/operator/ui_loot_operator_west_hutch_10_1_lg.png
+hutch,HUTCH 1 1,mw5/operator/ui_loot_operator_west_hutch_1_1_lg.png
+hutch,HUTCH 2 1,mw5/operator/ui_loot_operator_west_hutch_2_1_lg.png
+hutch,HUTCH 3 1,mw5/operator/ui_loot_operator_west_hutch_3_1_lg.png
+hutch,HUTCH 4 1,mw5/operator/ui_loot_operator_west_hutch_4_1_lg.png
+hutch,HUTCH 5 1,mw5/operator/ui_loot_operator_west_hutch_5_1_lg.png
+hutch,HUTCH 6 1,mw5/operator/ui_loot_operator_west_hutch_6_1_lg.png
+hutch,HUTCH 7 1,mw5/operator/ui_loot_operator_west_hutch_7_1_lg.png
+hutch,HUTCH 8 1,mw5/operator/ui_loot_operator_west_hutch_8_1_lg.png
+horangi,HORANGI 2 1,mw5/operator/ui_loot_operator_east_horangi_2_1_lg.png
+horangi,HORANGI 3 1,mw5/operator/ui_loot_operator_east_horangi_3_1_lg.png
+horangi,HORANGI 4 1,mw5/operator/ui_loot_operator_east_horangi_4_1_lg.png
+horangi,HORANGI 5 1,mw5/operator/ui_loot_operator_east_horangi_5_1_lg.png
+horangi,HORANGI 6 1,mw5/operator/ui_loot_operator_east_horangi_6_1_lg.png
+horangi,HORANGI 7 1,mw5/operator/ui_loot_operator_east_horangi_7_1_lg.png
+horangi,HORANGI 8 1,mw5/operator/ui_loot_operator_east_horangi_8_1_lg.png
+horangi,HORANGI 8 2,mw5/operator/ui_loot_operator_east_horangi_8_2_lg.png
+oni,ONI 1 1,mw5/operator/ui_loot_operator_east_oni_1_1_lg.png
+oni,ONI 2 1,mw5/operator/ui_loot_operator_east_oni_2_1_lg.png
+oni,ONI 3 1,mw5/operator/ui_loot_operator_east_oni_3_1_lg.png
+oni,ONI 4 1,mw5/operator/ui_loot_operator_east_oni_4_1_lg.png
+oni,ONI 5 1,mw5/operator/ui_loot_operator_east_oni_5_1_lg.png
+oni,ONI 6 1,mw5/operator/ui_loot_operator_east_oni_6_1_lg.png
+oni,ONI 7 1,mw5/operator/ui_loot_operator_east_oni_7_1_lg.png
+zero,JINN 1 1,mw5/operator/ui_loot_operator_east_jinn_1_1_lg.png
+zero,JINN 2 1,mw5/operator/ui_loot_operator_east_jinn_2_1_lg.png
+zero,JINN 4 1,mw5/operator/ui_loot_operator_east_jinn_4_1_lg.png
+zero,JINN 4 2,mw5/operator/ui_loot_operator_east_jinn_4_2_lg.png
+zero,ZERO 3 1,mw5/operator/ui_loot_operator_east_zero_3_1_lg.png
+zero,ZERO 4 1,mw5/operator/ui_loot_operator_east_zero_4_1_lg.png
+zero,ZERO 4 2,mw5/operator/ui_loot_operator_east_zero_4_2_lg.png
+zero,ZERO 5 1,mw5/operator/ui_loot_operator_east_zero_5_1_lg.png
+zero,ZERO 6 1,mw5/operator/ui_loot_operator_east_zero_6_1_lg.png
+zero,ZERO 7 1,mw5/operator/ui_loot_operator_east_zero_7_1_lg.png
+conor,CONOR 1 1,mw5/operator/ui_loot_operator_east_conor_1_1_lg.png
+conor,CONOR 2 1,mw5/operator/ui_loot_operator_east_conor_2_1_lg.png
+conor,CONOR 3 1,mw5/operator/ui_loot_operator_east_conor_3_1_lg.png
+conor,CONOR 5 1,mw5/operator/ui_loot_operator_east_conor_5_1_lg.png
+conor,CONOR 6 1,mw5/operator/ui_loot_operator_east_conor_6_1_lg.png
+conor,CONOR 8 1,mw5/operator/ui_loot_operator_east_conor_8_1_lg.png
+aksel,AKSEL 1 1,mw5/operator/ui_loot_operator_east_aksel_1_1_lg.png
+aksel,AKSEL 2 1,mw5/operator/ui_loot_operator_east_aksel_2_1_lg.png
+aksel,AKSEL 4 1,mw5/operator/ui_loot_operator_east_aksel_4_1_lg.png
+aksel,AKSEL 5 1,mw5/operator/ui_loot_operator_east_aksel_5_1_lg.png
+aksel,AKSEL 5 2,mw5/operator/ui_loot_operator_east_aksel_5_2_lg.png
+aksel,AKSEL 6 1,mw5/operator/ui_loot_operator_east_aksel_6_1_lg.png
+aksel,AKSEL 6 2,mw5/operator/ui_loot_operator_east_aksel_6_2_lg.png
+aksel,AKSEL 7 1,mw5/operator/ui_loot_operator_east_aksel_7_1_lg.png
+aksel,AKSEL 8 1,mw5/operator/ui_loot_operator_east_aksel_8_1_lg.png
+stiletto,STILETTO 1 1,mw5/operator/ui_loot_operator_east_stiletto_1_1_lg.png
+stiletto,STILETTO 2 1,mw5/operator/ui_loot_operator_east_stiletto_2_1_lg.png
+stiletto,STILETTO 8 1,mw5/operator/ui_loot_operator_east_stiletto_8_1.png
+stiletto,STILETTO 3 1,mw5/operator/ui_loot_operator_west_stiletto_3_1_lg.png
+stiletto,STILETTO 4 1,mw5/operator/ui_loot_operator_west_stiletto_4_1_lg.png
+stiletto,STILETTO 7 1,mw5/operator/ui_loot_operator_west_stiletto_7_1_lg.png
+stiletto,STILETTO 9 1,mw5/operator/ui_loot_operator_west_stiletto_9_1_lg.png
+stiletto,STILETTO 9 2,mw5/operator/ui_loot_operator_west_stiletto_9_2_lg.png
+zeus,ZEUS 1 1,mw5/operator/ui_loot_operator_east_zeus_1_1_lg.png
+zeus,ZEUS 2 1,mw5/operator/ui_loot_operator_east_zeus_2_1_lg.png
+zeus,ZEUS 3 1,mw5/operator/ui_loot_operator_east_zeus_3_1_lg.png
+zeus,ZEUS 4 1,mw5/operator/ui_loot_operator_east_zeus_4_1_lg.png
+neymar,Neymar (Alt),mw5/operator/ui_loot_operator_east_neymar_1_1.png
+neymar,Neymar,mw5/operator/ui_loot_operator_east_neymar_1_1_lg.png
+shredder,Shredder,mw5/operator/ui_loot_operator_east_shredder_1_1_lg.png
+vega,BLAIR 1 1,mw5/operator/ui_loot_operator_east_blair_1_1_lg.png
+vega,BLAIR 2 1,mw5/operator/ui_loot_operator_east_blair_2_1_lg.png
+vega,BLAIR 3 1,mw5/operator/ui_loot_operator_east_blair_3_1_lg.png
+vega,BLAIR 3 2,mw5/operator/ui_loot_operator_east_blair_3_2_lg.png
+homelander,Homelander,mw5/operator/ui_loot_operator_east_homelander_1_1_lg.png
+blacknoir,Black Noir,mw5/operator/ui_loot_operator_east_blacknoir_1_1_lg.png
+izzy,Izzy,mw5/operator/ui_loot_operator_east_anime_1_1_lg.png
+oz,OZ 2 1,mw5/operator/ui_loot_operator_east_oz_2_1_lg.png
+oz,OZ 2 2,mw5/operator/ui_loot_operator_east_oz_2_2_lg.png
+oz,ZOLTAN 1 1,mw5/operator/ui_loot_operator_east_zoltan_1_1_lg.png
+oz,ZOLTAN 1 2,mw5/operator/ui_loot_operator_east_zoltan_1_2_lg.png
+graves,Graves PMC BlackCell,mw5/operator/ui_loot_operator_east_graves_pmc_bc_lg.png
+graves,Graves PMC,mw5/operator/ui_loot_operator_east_graves_pmc_lg.png
+graves,Shadow Company BlackCell,mw5/operator/ui_loot_operator_east_graves_sc_bc_lg.png
+graves,Shadow Company,mw5/operator/ui_loot_operator_east_graves_sc_lg.png
+mila,Mila,mw5/operator/ui_loot_operator_east_bullitt_1_1_lg.png
+nicki,Nicki Minaj,mw5/operator/ui_loot_operator_east_nima_1_1_lg.png
+21savage,21 Savage,mw5/operator/ui_loot_operator_east_tws_1_1_lg.png
+v4l3ria,VALERIA 1 1,mw5/operator/ui_loot_operator_east_valeria_1_1_lg.png
+v4l3ria,VALERIA 1 2,mw5/operator/ui_loot_operator_east_valeria_1_2_lg.png
+v4l3ria,VALERIA 2 1,mw5/operator/ui_loot_operator_east_valeria_2_1_lg.png
+v4l3ria,VALERIA 2 2,mw5/operator/ui_loot_operator_east_valeria_2_2_lg.png
+v4l3ria,VALERIA 3 1,mw5/operator/ui_loot_operator_east_valeria_3_1_lg.png
+v4l3ria,VALERIA 4 1,mw5/operator/ui_loot_operator_east_valeria_4_1_lg.png
+v4l3ria,VALERIA 5 1,mw5/operator/ui_loot_operator_east_valeria_5_1_lg.png
+v4l3ria,VALERIA 5 2,mw5/operator/ui_loot_operator_east_valeria_5_2_lg.png
+v4l3ria,VALERIA 6 1,mw5/operator/ui_loot_operator_east_valeria_6_1_lg.png
+v4l3ria,VALERIA 7 1,mw5/operator/ui_loot_operator_east_valeria_7_1_lg.png
+v4l3ria,VALERIA 8 1,mw5/operator/ui_loot_operator_east_valeria_8_1_lg.png
+lilith,Lilith,mw5/operator/ui_loot_operator_east_lilith_1_1_lg.png
+skeletor,Skeletor,mw5/operator/ui_loot_operator_east_skeletor_1_1_lg.png
+skeletor,Snake Mountain,mw5/operator/ui_loot_operator_east_skeletor_2_1_lg.png
+skeletor,Evil Warriors,mw5/operator/ui_loot_operator_east_skeletor_3_1_lg.png
+sardaukar,Sardaukar,mw5/operator/ui_loot_operator_east_dune_1_1_lg.png
+cdl_af,CDL FEMALE BREACH,mw5/operator/ui_loot_operator_east_cdl_female_breach_lg.png
+cdl_af,CDL FEMALE FAZE,mw5/operator/ui_loot_operator_east_cdl_female_faze_lg.png
+cdl_af,CDL FEMALE GUERRILLAS,mw5/operator/ui_loot_operator_east_cdl_female_guerrillas_lg.png
+cdl_af,CDL FEMALE LEGION,mw5/operator/ui_loot_operator_east_cdl_female_legion_lg.png
+cdl_af,CDL FEMALE MUTINEERS,mw5/operator/ui_loot_operator_east_cdl_female_mutineers_lg.png
+cdl_af,CDL FEMALE OPTIC,mw5/operator/ui_loot_operator_east_cdl_female_optic_lg.png
+cdl_af,CDL FEMALE RAVENS,mw5/operator/ui_loot_operator_east_cdl_female_ravens_lg.png
+cdl_af,CDL FEMALE ROKKR,mw5/operator/ui_loot_operator_east_cdl_female_rokkr_lg.png
+cdl_af,CDL FEMALE SUBLINERS,mw5/operator/ui_loot_operator_east_cdl_female_subliners_lg.png
+cdl_af,CDL FEMALE SURGE,mw5/operator/ui_loot_operator_east_cdl_female_surge_lg.png
+cdl_af,CDL FEMALE THIEVES,mw5/operator/ui_loot_operator_east_cdl_female_thieves_lg.png
+cdl_af,CDL FEMALE ULTRA,mw5/operator/ui_loot_operator_east_cdl_female_ultra_lg.png
+cdl_af,CDL FEMALE UNBRANDED,mw5/operator/ui_loot_operator_east_cdl_female_unbranded_lg.png
+cdl_am,CDL MALE BREACH,mw5/operator/ui_loot_operator_east_cdl_male_breach_lg.png
+cdl_am,CDL MALE FAZE,mw5/operator/ui_loot_operator_east_cdl_male_faze_lg.png
+cdl_am,CDL MALE GUERRILLAS,mw5/operator/ui_loot_operator_east_cdl_male_guerrillas_lg.png
+cdl_am,CDL MALE LEGION,mw5/operator/ui_loot_operator_east_cdl_male_legion_lg.png
+cdl_am,CDL MALE MUTINEERS,mw5/operator/ui_loot_operator_east_cdl_male_mutineers_lg.png
+cdl_am,CDL MALE OPTIC,mw5/operator/ui_loot_operator_east_cdl_male_optic_lg.png
+cdl_am,CDL MALE RAVENS,mw5/operator/ui_loot_operator_east_cdl_male_ravens_lg.png
+cdl_am,CDL MALE ROKKR,mw5/operator/ui_loot_operator_east_cdl_male_rokkr_lg.png
+cdl_am,CDL MALE SUBLINERS,mw5/operator/ui_loot_operator_east_cdl_male_subliners_lg.png
+cdl_am,CDL MALE SURGE,mw5/operator/ui_loot_operator_east_cdl_male_surge_lg.png
+cdl_am,CDL MALE THIEVES,mw5/operator/ui_loot_operator_east_cdl_male_thieves_lg.png
+cdl_am,CDL MALE ULTRA,mw5/operator/ui_loot_operator_east_cdl_male_ultra_lg.png
+cdl_am,CDL MALE UNBRANDED,mw5/operator/ui_loot_operator_east_cdl_male_unbranded_lg.png
