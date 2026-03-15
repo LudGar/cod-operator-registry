@@ -1,18 +1,16 @@
-const GAMES = {
-  mw5:{ name:"Modern Warfare II (2022)",  short:"MW2", color:"#8899ff", year:2022 },
-  mw6:{ name:"Modern Warfare III (2023)", short:"MW3", color:"#6677ff", year:2023 },
-  bo6:{ name:"Black Ops 6",               short:"BO6", color:"#ff2244", year:2024 },
-  bo7:{ name:"Black Ops 7",               short:"BO7", color:"#cc00ff", year:2025 },
-};
-
+const GAMES = { 
+  mw5:{ name:"Modern Warfare II (2022)",    short:"MW2", color:"#8899ff", year:2022 }, 
+  mw6:{ name:"Modern Warfare III (2023)",   short:"MW3", color:"#6677ff", year:2023 }, 
+  bo6:{ name:"Black Ops 6",                 short:"BO6", color:"#ff2244", year:2024 }, 
+  bo7:{ name:"Black Ops 7",                 short:"BO7", color:"#cc00ff", year:2025 }, };
+  
 let OPERATORS = [];
 
-// ── CSV loader ────────────────────────────────────────────────────────────────
+// ── CSV loader ──────────────────────────────────────────────────────────────────
 function parseCSV(text){
   const rows=[], lines=text.trim().split('\n');
   const headers=lines[0].split(';');
   for(let i=1;i<lines.length;i++){
-    // Handle quoted fields with semicolons inside
     const fields=[], line=lines[i];
     let cur='', inQ=false;
     for(let c=0;c<line.length;c++){
@@ -39,19 +37,19 @@ const GAME_FOLDERS = {
 };
 
 async function loadData(){
-  const allOperators = {};   // keyed by internal id, merged across games
+  const allOperators   = {}; // keyed by operator_id, merged across games
   const allAppearances = {}; // operator_id → [{game,faction,season}]
-  const allSkins = {};       // operator_id → [{name,path}]
+  const allSkins       = {}; // operator_id → [{name,path}]
 
   await Promise.all(Object.entries(GAME_FOLDERS).map(async ([gameKey, folder]) => {
-    const [opText, apText, skText] = await Promise.all([
+    // ── appearances.csv is gone — faction & season now live in operator.csv ──
+    const [opText, skText] = await Promise.all([
       fetch(folder+'/data/operator.csv').then(r=>r.text()),
-      fetch(folder+'/data/appearances.csv').then(r=>r.text()),
       fetch(folder+'/data/skins.csv').then(r=>r.text()),
     ]);
 
     parseCSV(opText).forEach(r => {
-      const id = r.internal;
+      const id = r.operator_id;   // ← was r.internal (column renamed in CSV)
       if(!allOperators[id]) allOperators[id] = {
         id,
         name:         r.name,
@@ -65,12 +63,14 @@ async function loadData(){
           background:  r.background||null,
         } : null,
       };
-    });
 
-    parseCSV(apText).forEach(r => {
-      const id = r.operator_id;
+      // Build appearances inline — faction & season columns come from this same row
       if(!allAppearances[id]) allAppearances[id] = [];
-      allAppearances[id].push({ game:gameKey, faction:r.faction, season:r.season||null });
+      allAppearances[id].push({
+        game:    gameKey,
+        faction: r.faction||null,
+        season:  r.season||null,
+      });
     });
 
     parseCSV(skText).forEach(r => {
@@ -80,7 +80,7 @@ async function loadData(){
     });
   }));
 
-  // Assemble final OPERATORS array, preserving appearance order across games
+  // Assemble final OPERATORS array
   OPERATORS = Object.values(allOperators).map(op => ({
     ...op,
     appearances: allAppearances[op.id] || [],
@@ -89,10 +89,9 @@ async function loadData(){
 
   render();
 }
-
 loadData();
 
-// ── Helpers ───────────────────────────────────────────────────────────────────
+// ── Helpers ──────────────────────────────────────────────────────────────────────
 function ini(name){ return name.split(" ").map(w=>w[0]).join("").slice(0,2).toUpperCase(); }
 
 function badge(gameKey,small){
@@ -117,9 +116,8 @@ function patternSVG(seed,color){
   return '<svg class="skin-pattern" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice"><rect width="100" height="100" fill="'+color+'"/>'+s+'</svg>';
 }
 
-// ── State ─────────────────────────────────────────────────────────────────────
+// ── State ─────────────────────────────────────────────────────────────────────────
 var S={ game:"all", search:"", view:"grid" };
-
 const gameCount={};
 OPERATORS.forEach(op=>{
   const seen=new Set();
@@ -127,10 +125,9 @@ OPERATORS.forEach(op=>{
 });
 const multiCount=OPERATORS.filter(op=>op.appearances.length>1).length;
 
-// ── Tabs ──────────────────────────────────────────────────────────────────────
+// ── Tabs ──────────────────────────────────────────────────────────────────────────
 function buildTabs(){
-  const c=document.getElementById("game-tabs");
-  c.innerHTML="";
+  const c=document.getElementById("game-tabs"); c.innerHTML="";
   const allB=document.createElement("button");
   allB.className="game-tab all"+(S.game==="all"?" active-all":"");
   allB.textContent="ALL ("+OPERATORS.length+")";
@@ -151,18 +148,20 @@ function getFiltered(){
   return OPERATORS.filter(op=>{
     if(!op.appearances.length) return false;
     if(S.game!=="all"&&!op.appearances.some(a=>a.game===S.game)) return false;
-    if(S.search){ const q=S.search.toLowerCase(); return op.name.toLowerCase().includes(q)||op.appearances.some(a=>a.faction&&a.faction.toLowerCase().includes(q)); }
+    if(S.search){
+      const q=S.search.toLowerCase();
+      return op.name.toLowerCase().includes(q)||op.appearances.some(a=>a.faction&&a.faction.toLowerCase().includes(q));
+    }
     return true;
   });
 }
 
-// ── Render ────────────────────────────────────────────────────────────────────
+// ── Render ────────────────────────────────────────────────────────────────────────
 function render(){
   buildTabs();
   document.getElementById("header-sub").textContent=OPERATORS.length+" OPERATORS \u00b7 "+multiCount+" CROSS-GAME \u00b7 "+Object.keys(GAMES).length+" TITLES";
   const ops=getFiltered();
   document.getElementById("ops-count").textContent=ops.length+" OPS";
-
   const banner=document.getElementById("game-banner");
   if(S.game!=="all"){
     const g=GAMES[S.game];
@@ -171,8 +170,9 @@ function render(){
     document.getElementById("banner-year").textContent=g.year;
     document.getElementById("banner-year").style.color=g.color;
     document.getElementById("banner-name").textContent="Call of Duty: "+g.name;
-  } else { banner.className="game-banner"; banner.style.cssText=""; }
-
+  } else {
+    banner.className="game-banner"; banner.style.cssText="";
+  }
   const gridEl=document.getElementById("grid-view");
   const listEl=document.getElementById("list-view");
   const emptyEl=document.getElementById("empty-msg");
@@ -184,9 +184,9 @@ function render(){
     const ac=GAMES.mw5.color;
     const specgru=ops.filter(op=>op.appearances.some(a=>a.game==="mw5"&&a.faction==="SpecGru"));
     const kortac =ops.filter(op=>op.appearances.some(a=>a.game==="mw5"&&a.faction==="KorTac"));
-
     if(S.view==="grid"){
-      gridEl.style.display="block"; listEl.style.display="none";      gridEl.innerHTML=
+      gridEl.style.display="block"; listEl.style.display="none";
+      gridEl.innerHTML=
         '<div class="faction-split">'
         +'<div class="faction-col">'
         +'<div class="faction-header" style="color:'+ac+';border-color:'+ac+'44"><span class="fh-dot" style="background:'+ac+'"></span>SPECGRU</div>'
@@ -197,7 +197,6 @@ function render(){
         +'<div class="faction-col-grid" id="kt-grid">'+kortac.map(op=>cardHTML(op)).join("")+'</div>'
         +'</div>'
         +'</div>';
-      // attach click listeners across both columns
       const allOps=[...specgru,...kortac];
       gridEl.querySelectorAll(".op-card").forEach((el,i)=>{ el.addEventListener("click",()=>openDetail(allOps[i])); });
     } else {
@@ -245,7 +244,7 @@ function cardHTML(op){
   var avInner;
   if(op.icon){
     avInner='<img src="'+op.icon+'" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'">'
-           +'<span class="av-ini" style="display:none;color:'+ac+'">'+ini(displayName)+'</span>';
+      +'<span class="av-ini" style="display:none;color:'+ac+'">'+ini(displayName)+'</span>';
   } else {
     avInner='<span class="av-ini" style="color:'+ac+'">'+ini(displayName)+'</span>';
   }
@@ -274,22 +273,25 @@ function rowHTML(op){
 // hover delegation
 document.addEventListener("mouseover",function(e){
   const r=e.target.closest(".list-row"); if(r) r.style.borderLeftColor=r.dataset.ac;
-  const c=e.target.closest(".op-card"); if(c){ c.style.borderTopColor=c.dataset.ac; c.style.boxShadow="0 8px 32px "+c.dataset.ac+"22"; c.style.transform="translateY(-2px)"; }
-  const s=e.target.closest(".skin-card"); if(s){ s.style.borderColor=s.dataset.gc+"88"; s.style.boxShadow="0 8px 32px "+s.dataset.gc+"33"; }
+  const c=e.target.closest(".op-card");
+  if(c){ c.style.borderTopColor=c.dataset.ac; c.style.boxShadow="0 8px 32px "+c.dataset.ac+"22"; c.style.transform="translateY(-2px)"; }
+  const s=e.target.closest(".skin-card");
+  if(s){ s.style.borderColor=s.dataset.gc+"88"; s.style.boxShadow="0 8px 32px "+s.dataset.gc+"33"; }
 });
 document.addEventListener("mouseout",function(e){
   const r=e.target.closest(".list-row"); if(r) r.style.borderLeftColor=r.dataset.ac+"44";
-  const c=e.target.closest(".op-card"); if(c){ c.style.borderTopColor=c.dataset.ac+"55"; c.style.boxShadow=""; c.style.transform=""; }
-  const s=e.target.closest(".skin-card"); if(s){ s.style.borderColor=s.dataset.gc+"33"; s.style.boxShadow=""; }
+  const c=e.target.closest(".op-card");
+  if(c){ c.style.borderTopColor=c.dataset.ac+"55"; c.style.boxShadow=""; c.style.transform=""; }
+  const s=e.target.closest(".skin-card");
+  if(s){ s.style.borderColor=s.dataset.gc+"33"; s.style.boxShadow=""; }
 });
 
-// ── Detail ────────────────────────────────────────────────────────────────────
+// ── Detail ────────────────────────────────────────────────────────────────────────
 function openDetail(op){
   document.getElementById("view-registry").style.display="none";
   var dv=document.getElementById("view-detail");
   dv.style.display="block"; dv.classList.add("page-in");
   setTimeout(function(){ dv.classList.remove("page-in"); },200);
-
   var pg=op.appearances.length?op.appearances[0].game:"mw5";
   var ac=GAMES[pg]?GAMES[pg].color:"#aaa";
   var isM=op.appearances.length>1;
@@ -326,18 +328,15 @@ function openDetail(op){
   // bio fields
   var b=op.bio||{};
   var faction=op.appearances[0].faction||"—";
-
   document.getElementById("bio-citizenship").textContent=b.citizenship||"—";
   document.getElementById("bio-language").textContent=b.language||"—";
   document.getElementById("bio-faction").textContent=b.faction||faction;
-
   var statusEl=document.getElementById("bio-status");
   var statusVal=b.status||"—";
-  statusEl.textContent=statusVal;
-  statusEl.className="bio-cell-value";
-  if(statusVal==="Active")  statusEl.classList.add("status-active");
+  statusEl.textContent=statusVal; statusEl.className="bio-cell-value";
+  if(statusVal==="Active") statusEl.classList.add("status-active");
   else if(statusVal==="KIA") statusEl.classList.add("status-kia");
-  else if(statusVal!=="—")   statusEl.classList.add("status-unknown");
+  else if(statusVal!=="—") statusEl.classList.add("status-unknown");
 
   // background text (supports \n for paragraph breaks)
   var bgEl=document.getElementById("bio-background");
@@ -364,7 +363,6 @@ function openDetail(op){
         +'</div>';
     }).join("");
   }
-
   window.scrollTo(0,0);
 }
 
@@ -376,9 +374,17 @@ document.getElementById("back-btn").addEventListener("mouseenter",function(){
   var ac=(document.getElementById("detail-glow").style.background.match(/#[0-9a-f]{6}/i)||["#8899ff"])[0];
   this.style.borderColor=ac; this.style.color=ac;
 });
-document.getElementById("back-btn").addEventListener("mouseleave",function(){ this.style.borderColor=""; this.style.color=""; });
+document.getElementById("back-btn").addEventListener("mouseleave",function(){
+  this.style.borderColor=""; this.style.color="";
+});
 
-// ── Controls ──────────────────────────────────────────────────────────────────
-document.getElementById("search-input").addEventListener("input",function(e){ S.search=e.target.value; render(); });
-document.getElementById("btn-grid").addEventListener("click",function(){ S.view="grid"; this.classList.add("active"); document.getElementById("btn-list").classList.remove("active"); render(); });
-document.getElementById("btn-list").addEventListener("click",function(){ S.view="list"; this.classList.add("active"); document.getElementById("btn-grid").classList.remove("active"); render(); });
+// ── Controls ──────────────────────────────────────────────────────────────────────
+document.getElementById("search-input").addEventListener("input",function(e){
+  S.search=e.target.value; render();
+});
+document.getElementById("btn-grid").addEventListener("click",function(){
+  S.view="grid"; this.classList.add("active"); document.getElementById("btn-list").classList.remove("active"); render();
+});
+document.getElementById("btn-list").addEventListener("click",function(){
+  S.view="list"; this.classList.add("active"); document.getElementById("btn-grid").classList.remove("active"); render();
+});
