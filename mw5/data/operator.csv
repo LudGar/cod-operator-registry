@@ -1,71 +1,71 @@
-operator_id;name;alias;icon;citizenship;language;status;
-west_milsim;[UNKNOWN];SpecGru;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active;[UNKNOWN];
-west_ghost;Simon Riley;Ghost;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;United Kingdom;English;Active;
-west_price;Johnathan Price;Price;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;United Kingdom;English;Active;
-west_kyle;Kyle Garrick;Gaz;mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png;United Kingdom;English;Active;
-west_soap;John MacTavish;Soap;mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png;United Kingdom;English;Active;
-west_ronin;Daniel Shinoda;Ronin;mw5/icons/ui_operator_west_ronin_portrait_1_1_lg.png;American;English;Active;
-west_alex;Alex Keller;Alex;mw5/icons/ui_operator_west_alex_portrait_1_1_lg.png;American;English;Active;
-east_nikto;[UNKNOWN];Nikto;mw5/icons/ui_operator_east_nikto_portrait_1_1_lg.png;Russian;English;Active;
-east_mace;[UNKNOWN];Mace;mw5/icons/ui_operator_east_mace_portrait_1_1_lg.png;American;English;Active;
-west_farah;Farah Ahmed Karim;Farah;mw5/icons/ui_operator_west_farah_portrait_1_1_lg.png;Urzik;English;Active;
-east_roze;Rozlin Helms;Roze;mw5/icons/ui_operator_east_roze_portrait_1_1_lg.png;American;English;Active;
-east_velikan;[UNKNOWN];Velikan;mw5/icons/ui_operator_east_velikan_portrait_1_1_lg.png;American;English;Active;
-west_snoop;Calvin Cordozar Broadus Jr.;Snoop Dogg;mw5/icons/ui_operator_west_snoop_portrait_1_1_lg.png;American;English;Active;
-west_chili;Jesus Ordaz;Chuy;mw5/icons/ui_operator_west_chili_portrait_1_1_lg.png;Mexican;English;Active;
-west_gus;Gustavo Rodriguez;Gus;mw5/icons/ui_operator_west_gus_portrait_1_1_lg.png;Costa Rican;English;Active;
-west_zimo;Zhiqiang Huang;Zimo;mw5/icons/ui_operator_west_zimo_portrait_1_1_lg.png;Chinese;English;Active;
-west_kleo;Kleopatros Gavras;Kleo;mw5/icons/ui_operator_west_kleo_portrait_1_1_lg.png;Greek;English;Active;
-west_nova;Nila Brown;Nova;mw5/icons/ui_operator_west_nova_portrait_1_1_lg.png;British;English;Active;
-west_gromsko;Sobieslaw Ko?ciuszko;Gromsko;mw5/icons/ui_operator_west_gromsko_portrait_3_1_lg.png;Polish;English;Active;
-west_reyes;Enzo Reyes;Reyes;mw5/icons/ui_operator_west_reyes_portrait_1_1_lg.png;Canadian;English;Active;
-west_luna;Z Mngzh?;Luna;mw5/icons/ui_operator_west_luna_portrait_1_1_lg.png;American;English;Active;
-west_pogba;Paul Labile Pogba;Paul Pogba;mw5/icons/ui_operator_west_pogba_portrait_1_1_lg.png;French;English;Active;
-west_messi;Lionel Andrs Messi;Messi;mw5/icons/ui_operator_west_messi_portrait_1_1_lg.png;Argentine;English;Active;
-west_alejandro;Alejandro Vargas;Alejandro;mw5/icons/ui_operator_west_alejandro_portrait_1_1_lg.png;Mexican;English;Active;
-west_kevin_durant;Kevin Wayne Durant;Kevin Durant;mw5/icons/ui_operator_west_kevin_durant_portrait_1_1_lg.png;American;English;Active;
-west_tim;Timothy John Betar;TimTheTatman;mw5/icons/ui_operator_west_tim_portrait_1_1_lg.png;American;English;Active;
-west_blackcell;[UNKNOWN];Io;mw5/icons/ui_operator_west_blackcell_portrait_2_1_lg.png;[UNKNOWN];English;Active;
-west_freedom;[UNKNOWN];Butch;mw5/icons/ui_operator_west_freedom_portrait_2_1_lg.png;American;English;Active;
-west_starlight;Annie January;Starlight;mw5/icons/ui_operator_west_starlight_portrait_1_1_lg.png;American;English;Active;
-west_arthur;[UNKNOWN];Arthur;mw5/icons/ui_operator_west_arthur_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-west_lc;Lara Croft;;mw5/icons/ui_operator_west_lc_portrait_1_1_lg.png;British/England;English;Active;
-west_spawn;"Albert Francis ""Al"" Simmons";Spawn;mw5/icons/ui_operator_west_spawn_portrait_2_1_lg.png;American;English;Active;
-west_hellsing;[UNKNOWN];Alucard;mw5/icons/ui_operator_west_hellsing_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-west_ash;Ashley Joanna Williams;Ash;mw5/icons/ui_operator_west_ash_portrait_1_1_lg.png;American;English;Active;
-west_inarius;Inarius;;mw5/icons/ui_operator_west_inarius_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-west_cdl_female;[UNKNOWN];CDL Home Female;mw5/icons/ui_operator_west_cdl_home_female_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-west_cdl_male;[UNKNOWN];CDL Home Male;mw5/icons/ui_operator_west_cdl_home_male_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_milsim;[UNKNOWN];KorTac;mw5/icons/ui_operator_east_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_fender;Fender Takacs;Fender;mw5/icons/ui_operator_east_fender_portrait_1_1_lg.png;Hungarian;English;Active;
-east_koenig;[UNKNOWN];Konig;mw5/icons/ui_operator_east_koenig_portrait_1_1_lg.png;Austria;German;Active;
-east_calisto;Calisto Allard;Calisto;mw5/icons/ui_operator_east_calisto_portrait_1_1_lg.png;French-Spain;English;Active;
-east_hutch;Darnell Hutchinson;Hutch;mw5/icons/ui_operator_east_hutch_portrait_1_1_lg.png;American;English;Active;
-east_horangi;Kim Hong-jin;Horangi;mw5/icons/ui_operator_east_horangi_portrait_2_1_lg.png;South Korea;English;Active;
-east_oni;Hiro Watanabe;Oni;mw5/icons/ui_operator_east_oni_portrait_1_1_lg.png;Japanese;English;Active;
-east_jinn;Sami Zakaria;Zero;mw5/icons/ui_operator_east_jinn_portrait_1_1_lg.png;Egypt;English;Active;
-east_conor;Declan O'Conor;Conor;mw5/icons/ui_operator_east_conor_portrait_1_1_lg.png;Irish;English;Active;
-east_aksel;Tor Eriksen;Aksel;mw5/icons/ui_operator_east_aksel_portrait_1_1_lg.png;Norwegian;English;Active;
-east_stiletto;Salvatrice Muselli;Stiletto;mw5/icons/ui_operator_east_stiletto_portrait_1_1_lg.png;Italian;English;Active;
-east_zeus;Zosar Kalu;Zeus;mw5/icons/ui_operator_east_zeus_portrait_1_1_lg.png;Nigerian;English;Active;
-east_neymar;Neymar da Silva Santos Junior;Neymar Jr;mw5/icons/ui_operator_east_neymar_portrait_1_1_lg.png;Brazilian;English;Active;
-east_klaus;Klaus Fisker;Klaus;mw5/icons/ui_operator_east_klaus_portrait_1_1_lg.png;Danish;English;Active;
-east_shredder;Oroku Saki;Shredder;mw5/icons/ui_operator_east_shredder_portrait_1_1_lg.png;Japanese;English;Active;
-east_valeria;Valeria Garza;Valeria;mw5/icons/ui_operator_east_valeria_portrait_1_1_lg.png;Mexican;English;Active;
-east_blackcell;[UNKNOWN];Atom;mw5/icons/ui_operator_east_black_cell_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_nick;Nickmercs;Nickmercs;mw5/icons/ui_operator_east_nick_mercs_portrait_1_1_lg.png;;English;Active;
-east_blair;Ana Vega;Vega;mw5/icons/ui_operator_east_blair_portrait_1_1_lg.png;American;English;Active;
-east_homelander;John Gillman;Homelander;mw5/icons/ui_operator_east_homelander_portrait_1_1_lg.png;American;English;Active;
-east_blacknoir;Earving;Black Noir;mw5/icons/ui_operator_east_blacknoir_portrait_1_1_lg.png;American;English;Active;
-east_anime;Izzy;Izzy;mw5/icons/ui_operator_east_anime_portrait_1_1_lg.png;Japanese;English;Active;
-east_zoltan;Osmond Ryan;Oz;mw5/icons/ui_operator_east_zoltan_portrait_1_1_lg.png;American;English;Active;
-east_graves;Phillip Graves;Graves;mw5/icons/ui_operator_east_graves_portrait_pmc_lg.png;American;English;Active;
-east_bullitt;Mila;Whiskey-1;mw5/icons/ui_operator_east_bullitt_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_nima;Onika Tanya Maraj-Petty;Nicki Minaj;mw5/icons/ui_operator_east_nima_portrait_1_1_lg.png;Trinbagonian;English;Active;
-east_tws;Shyaa Bin Abraham-Joseph;21 Savage;mw5/icons/ui_operator_east_tws_portrait_1_1_lg.png;British;English;Active;
-east_valeria_ai;V4L3RIA;V4L;mw5/icons/ui_operator_east_valeria_portrait_8_1_lg.png;Mexican;English;Active;
-east_lilith;Lilith;;mw5/icons/ui_operator_east_lilith_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_skeletor;Skeletor;;mw5/icons/ui_operator_east_skeletor_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_dune;Sardaukar;;mw5/icons/ui_operator_east_dune_portrait_1_1_lg.png;House Corrino;English;Active;
-east_cdl_female;[UNKNOWN];CDL Away Female;mw5/icons/ui_operator_east_cdl_away_female_portrait_1_1_lg.png;[UNKNOWN];English;Active;
-east_cdl_male;[UNKNOWN];CDL Away Male;mw5/icons/ui_operator_east_cdl_away_male_portrait_1_1_lg.png;[UNKNOWN];English;Active;
+operator_id;faction;season;name;alias;icon;citizenship;language;status
+west_milsim;SpecGru;;[UNKNOWN];SpecGru;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active
+west_ghost;SpecGru;;Simon Riley;Ghost;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;United Kingdom;English;Active
+west_price;SpecGru;;Johnathan Price;Price;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;United Kingdom;English;Active
+west_kyle;SpecGru;S1;Kyle Garrick;Gaz;mw5/icons/ui_operator_west_gaz_con_portrait_1_1_lg.png;United Kingdom;English;Active
+west_soap;SpecGru;;John MacTavish;Soap;mw5/icons/ui_operator_west_soap_portrait_1_1_lg.png;United Kingdom;English;Active
+west_ronin;SpecGru;S2;Daniel Shinoda;Ronin;mw5/icons/ui_operator_west_ronin_portrait_1_1_lg.png;American;English;Active
+west_alex;SpecGru;S3;Alex Keller;Alex;mw5/icons/ui_operator_west_alex_portrait_1_1_lg.png;American;English;Active
+east_nikto;KorTac;S4;[UNKNOWN];Nikto;mw5/icons/ui_operator_east_nikto_portrait_1_1_lg.png;Russian;English;Active
+east_mace;KorTac;S5;[UNKNOWN];Mace;mw5/icons/ui_operator_east_mace_portrait_1_1_lg.png;American;English;Active
+west_farah;SpecGru;;Farah Ahmed Karim;Farah;mw5/icons/ui_operator_west_farah_portrait_1_1_lg.png;Urzik;English;Active
+east_roze;KorTac;;Rozlin Helms;Roze;mw5/icons/ui_operator_east_roze_portrait_1_1_lg.png;American;English;Active
+east_velikan;KorTac;S5;[UNKNOWN];Velikan;mw5/icons/ui_operator_east_velikan_portrait_1_1_lg.png;American;English;Active
+west_snoop;SpecGru;S5;Calvin Cordozar Broadus Jr.;Snoop Dogg;mw5/icons/ui_operator_west_snoop_portrait_1_1_lg.png;American;English;Active
+west_chili;SpecGru;;Jesus Ordaz;Chuy;mw5/icons/ui_operator_west_chili_portrait_1_1_lg.png;Mexican;English;Active
+west_gus;SpecGru;;Gustavo Rodriguez;Gus;mw5/icons/ui_operator_west_gus_portrait_1_1_lg.png;Costa Rican;English;Active
+west_zimo;SpecGru;;Zhiqiang Huang;Zimo;mw5/icons/ui_operator_west_zimo_portrait_1_1_lg.png;Chinese;English;Active
+west_kleo;SpecGru;;Kleopatros Gavras;Kleo;mw5/icons/ui_operator_west_kleo_portrait_1_1_lg.png;Greek;English;Active
+west_nova;SpecGru;;Nila Brown;Nova;mw5/icons/ui_operator_west_nova_portrait_1_1_lg.png;British;English;Active
+west_gromsko;SpecGru;;Sobieslaw Ko?ciuszko;Gromsko;mw5/icons/ui_operator_west_gromsko_portrait_3_1_lg.png;Polish;English;Active
+west_reyes;SpecGru;;Enzo Reyes;Reyes;mw5/icons/ui_operator_west_reyes_portrait_1_1_lg.png;Canadian;English;Active
+west_luna;SpecGru;;Z� M�ngzh?;Luna;mw5/icons/ui_operator_west_luna_portrait_1_1_lg.png;American;English;Active
+west_pogba;SpecGru;S1;Paul Labile Pogba;Paul Pogba;mw5/icons/ui_operator_west_pogba_portrait_1_1_lg.png;French;English;Active
+west_messi;SpecGru;S1;Lionel Andr�s Messi;Messi;mw5/icons/ui_operator_west_messi_portrait_1_1_lg.png;Argentine;English;Active
+west_alejandro;SpecGru;S3;Alejandro Vargas;Alejandro;mw5/icons/ui_operator_west_alejandro_portrait_1_1_lg.png;Mexican;English;Active
+west_kevin_durant;SpecGru;S3;Kevin Wayne Durant;Kevin Durant;mw5/icons/ui_operator_west_kevin_durant_portrait_1_1_lg.png;American;English;Active
+west_tim;SpecGru;S3;Timothy John Betar;TimTheTatman;mw5/icons/ui_operator_west_tim_portrait_1_1_lg.png;American;English;Active
+west_blackcell;SpecGru;S4;[UNKNOWN];Io;mw5/icons/ui_operator_west_blackcell_portrait_2_1_lg.png;[UNKNOWN];English;Active
+west_freedom;SpecGru;S4;[UNKNOWN];Butch;mw5/icons/ui_operator_west_freedom_portrait_2_1_lg.png;American;English;Active
+west_starlight;SpecGru;S4;Annie January;Starlight;mw5/icons/ui_operator_west_starlight_portrait_1_1_lg.png;American;English;Active
+west_arthur;SpecGru;S5;[UNKNOWN];Arthur;mw5/icons/ui_operator_west_arthur_portrait_1_1_lg.png;[UNKNOWN];English;Active
+west_lc;SpecGru;S5;Lara Croft;;mw5/icons/ui_operator_west_lc_portrait_1_1_lg.png;British/England;English;Active
+west_spawn;SpecGru;S6;"Albert Francis ""Al"" Simmons";Spawn;mw5/icons/ui_operator_west_spawn_portrait_2_1_lg.png;American;English;Active
+west_hellsing;SpecGru;S6;[UNKNOWN];Alucard;mw5/icons/ui_operator_west_hellsing_portrait_1_1_lg.png;[UNKNOWN];English;Active
+west_ash;SpecGru;S6;Ashley Joanna Williams;Ash;mw5/icons/ui_operator_west_ash_portrait_1_1_lg.png;American;English;Active
+west_inarius;SpecGru;S6;Inarius;;mw5/icons/ui_operator_west_inarius_portrait_1_1_lg.png;[UNKNOWN];English;Active
+west_cdl_female;SpecGru;;[UNKNOWN];CDL Home Female;mw5/icons/ui_operator_west_cdl_home_female_portrait_1_1_lg.png;[UNKNOWN];English;Active
+west_cdl_male;SpecGru;;[UNKNOWN];CDL Home Male;mw5/icons/ui_operator_west_cdl_home_male_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_milsim;KorTac;;[UNKNOWN];KorTac;mw5/icons/ui_operator_east_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_fender;KorTac;;Fender Takacs;Fender;mw5/icons/ui_operator_east_fender_portrait_1_1_lg.png;Hungarian;English;Active
+east_koenig;KorTac;;[UNKNOWN];Konig;mw5/icons/ui_operator_east_koenig_portrait_1_1_lg.png;Austria;German;Active
+east_calisto;KorTac;;Calisto Allard;Calisto;mw5/icons/ui_operator_east_calisto_portrait_1_1_lg.png;French-Spain;English;Active
+east_hutch;KorTac;;Darnell Hutchinson;Hutch;mw5/icons/ui_operator_east_hutch_portrait_1_1_lg.png;American;English;Active
+east_horangi;KorTac;;Kim Hong-jin;Horangi;mw5/icons/ui_operator_east_horangi_portrait_2_1_lg.png;South Korea;English;Active
+east_oni;KorTac;;Hiro Watanabe;Oni;mw5/icons/ui_operator_east_oni_portrait_1_1_lg.png;Japanese;English;Active
+east_jinn;KorTac;;Sami Zakaria;Zero;mw5/icons/ui_operator_east_jinn_portrait_1_1_lg.png;Egypt;English;Active
+east_conor;KorTac;;Declan O'Conor;Conor;mw5/icons/ui_operator_east_conor_portrait_1_1_lg.png;Irish;English;Active
+east_aksel;KorTac;;Tor Eriksen;Aksel;mw5/icons/ui_operator_east_aksel_portrait_1_1_lg.png;Norwegian;English;Active
+east_stiletto;KorTac;;Salvatrice Muselli;Stiletto;mw5/icons/ui_operator_east_stiletto_portrait_1_1_lg.png;Italian;English;Active
+east_zeus;KorTac;S1;Zosar Kalu;Zeus;mw5/icons/ui_operator_east_zeus_portrait_1_1_lg.png;Nigerian;English;Active
+east_neymar;KorTac;S1;Neymar da Silva Santos J�nior;Neymar Jr;mw5/icons/ui_operator_east_neymar_portrait_1_1_lg.png;Brazilian;English;Active
+east_klaus;KorTac;S1;Klaus Fisker;Klaus;mw5/icons/ui_operator_east_klaus_portrait_1_1_lg.png;Danish;English;Active
+east_shredder;KorTac;S2;Oroku Saki;Shredder;mw5/icons/ui_operator_east_shredder_portrait_1_1_lg.png;Japanese;English;Active
+east_valeria;KorTac;S3;Valeria Garza;Valeria;mw5/icons/ui_operator_east_valeria_portrait_1_1_lg.png;Mexican;English;Active
+east_blackcell;KorTac;S3;[UNKNOWN];Atom;mw5/icons/ui_operator_east_black_cell_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_nick;KorTac;S3;Nickmercs;Nickmercs;mw5/icons/ui_operator_east_nick_mercs_portrait_1_1_lg.png;;English;Active
+east_blair;KorTac;S4;Ana Vega;Vega;mw5/icons/ui_operator_east_blair_portrait_1_1_lg.png;American;English;Active
+east_homelander;KorTac;S4;John Gillman;Homelander;mw5/icons/ui_operator_east_homelander_portrait_1_1_lg.png;American;English;Active
+east_blacknoir;KorTac;S4;Earving;Black Noir;mw5/icons/ui_operator_east_blacknoir_portrait_1_1_lg.png;American;English;Active
+east_anime;KorTac;S4;Izzy;Izzy;mw5/icons/ui_operator_east_anime_portrait_1_1_lg.png;Japanese;English;Active
+east_zoltan;KorTac;S5;Osmond Ryan;Oz;mw5/icons/ui_operator_east_zoltan_portrait_1_1_lg.png;American;English;Active
+east_graves;KorTac;S5;Phillip Graves;Graves;mw5/icons/ui_operator_east_graves_portrait_pmc_lg.png;American;English;Active
+east_bullitt;KorTac;S5;Mila;Whiskey-1;mw5/icons/ui_operator_east_bullitt_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_nima;KorTac;S5;Onika Tanya Maraj-Petty;Nicki Minaj;mw5/icons/ui_operator_east_nima_portrait_1_1_lg.png;Trinbagonian;English;Active
+east_tws;KorTac;S5;Sh�yaa Bin Abraham-Joseph;21 Savage;mw5/icons/ui_operator_east_tws_portrait_1_1_lg.png;British;English;Active
+east_valeria_ai;KorTac;S6;V4L3RIA;V4L;mw5/icons/ui_operator_east_valeria_portrait_8_1_lg.png;Mexican;English;Active
+east_lilith;KorTac;S6;Lilith;;mw5/icons/ui_operator_east_lilith_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_skeletor;KorTac;S6;Skeletor;;mw5/icons/ui_operator_east_skeletor_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_dune;KorTac;S6;Sardaukar;;mw5/icons/ui_operator_east_dune_portrait_1_1_lg.png;House Corrino;English;Active
+east_cdl_female;KorTac;;[UNKNOWN];CDL Away Female;mw5/icons/ui_operator_east_cdl_away_female_portrait_1_1_lg.png;[UNKNOWN];English;Active
+east_cdl_male;KorTac;;[UNKNOWN];CDL Away Male;mw5/icons/ui_operator_east_cdl_away_male_portrait_1_1_lg.png;[UNKNOWN];English;Active
