@@ -1,4 +1,4 @@
-internal;name;alias;icon;citizenship;language;status;background
+operator_id;name;alias;icon;citizenship;language;status;background
 west_milsim;[UNKNOWN];SpecGru;mw5/icons/ui_operator_west_milsim_portrait_1_1_lg.png;[UNKNOWN];English;Active;[UNKNOWN]
 west_ghost;Simon Riley;Ghost;mw5/icons/ui_operator_west_ghost_portrait_1_1_lg.png;United Kingdom;English;Active;Simon Riley, known as Ghost, is a British special forces operator assigned to Task Force 141. Renowned for his skull-painted balaclava and cold professionalism, Ghost serves as Price's most trusted lieutenant. His past is marked by tragedy and betrayal, forging him into one of the most formidable operators in the field.
 west_price;Johnathan Price;Price;mw5/icons/ui_operator_west_price_portrait_1_1_lg.png;United Kingdom;English;Active;Captain John Price is a veteran SAS officer and commander of Task Force 141. With decades of combat experience spanning multiple theatres, Price is one of the most decorated and feared operators in Western special forces. His calm under fire and tactical genius have saved countless lives.

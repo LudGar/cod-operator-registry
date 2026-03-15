@@ -104,6 +104,12 @@ west_kleo;Mantus;mw5/operator/ui_loot_operator_west_kleo_6_1_lg.png
 west_kleo;Ocean Fog;mw5/operator/ui_loot_operator_west_kleo_7_1_lg.png
 west_kleo;Ocean Fog (BlackCell);mw5/operator/ui_loot_operator_west_kleo_7_2_lg.png
 west_kleo;Zombie;mw5/operator/ui_loot_operator_west_kleo_8_1_lg.png
+east_nikto;Nikto;mw5/operator/ui_loot_operator_east_nikto_1_1_lg.png
+east_nikto;Nikto (BlackCell);mw5/operator/ui_loot_operator_east_nikto_1_2_lg.png
+east_nikto;Powercell;mw5/operator/ui_loot_operator_east_nikto_2_1_lg.png
+east_nikto;Powercell (BlackCell);mw5/operator/ui_loot_operator_east_nikto_2_2_lg.png
+east_nikto;Nikto Spawn;mw5/operator/ui_loot_operator_east_nikto_3_1_lg.png
+east_nikto;Nikto Spawn (BlackCell);mw5/operator/ui_loot_operator_east_nikto_3_2_lg.png
 east_nova;Nova;mw5/operator/ui_loot_operator_east_nova_1_1_lg.png
 east_nova;Cardio;mw5/operator/ui_loot_operator_east_nova_2_1_lg.png
 east_nova;Ruthless Pursuit;mw5/operator/ui_loot_operator_east_nova_3_1_lg.png
@@ -114,6 +120,7 @@ east_nova;Enigma;mw5/operator/ui_loot_operator_east_nova_6_1_lg.png
 east_nova;Lion's Might;mw5/operator/ui_loot_operator_east_nova_7_1_lg.png
 east_nova;Fungus;mw5/operator/ui_loot_operator_east_nova_8_1_lg.png
 east_nova;Titan 239;mw5/operator/ui_loot_operator_east_nova_cq_lg.png
+east_mace;Mace;mw5/operator/ui_loot_operator_east_mace_1_1_lg.png
 west_gromsko;Gromsko;mw5/operator/ui_loot_operator_west_gromsko_1_1_lg.png
 west_gromsko;Dr. Kushlov;
 west_gromsko;Strzyga;
@@ -143,6 +150,7 @@ west_alejandro;The Knight;mw5/operator/ui_loot_operator_west_alejandro_3_2_lg.pn
 west_alejandro;Swamped;
 west_alejandro;Swamped (BlackCell);
 west_tim;TimTheTatman;mw5/operator/ui_loot_operator_west_tim_1_1_lg.png
+east_blackcell;Atom;mw5/operator/ui_loot_operator_west_blackcell_1_1_lg.png
 west_blackcell;Io;mw5/operator/ui_loot_operator_west_blackcell_2_1_lg.png
 west_freedom;Butch;mw5/operator/ui_loot_operator_west_freedom_2_1_lg.png
 west_starlight;Starlight;mw5/operator/ui_loot_operator_west_starlight_1_1_lg.png
@@ -155,6 +163,7 @@ west_spawn;Burned Spawn;
 west_spawn;Burned Spawn (BlackCell);
 west_spawn;Mil-Spawn;
 west_spawn;Mil-Spawn (BlackCell);
+west_kevin_durant;Kevin Durant;mw5/operator/ui_loot_operator_west_kevin_durant_1_1_lg.png
 west_hellsing;Alucard;mw5/operator/ui_loot_operator_west_hellsing_1_1_lg.png
 west_ash;Ash;mw5/operator/ui_loot_operator_west_ash_1_1_lg.png
 west_inarius;Inarius;mw5/operator/ui_loot_operator_west_inarius_1_1_lg.png
@@ -203,7 +212,7 @@ west_fender;Vanquisher;mw5/operator/ui_loot_operator_west_fender_6_1_lg.png
 west_fender;EOD Specialist;mw5/operator/ui_loot_operator_west_fender_7_1_lg.png
 west_fender;Do You Even Lift?;mw5/operator/ui_loot_operator_west_fender_8_1_lg.png
 west_fender;Carver;mw5/operator/ui_loot_operator_west_fender_9_1_lg.png
-east_koenig;König;
+east_koenig;Kï¿½nig;
 east_koenig;Anonymous;
 east_koenig;Blood Soaked;
 east_koenig;Biohazard;mw5/operator/ui_loot_operator_east_koenig_4_1_lg.png
@@ -254,16 +263,28 @@ east_oni;Oni Revenant;mw5/operator/ui_loot_operator_east_oni_4_1_lg.png
 east_oni;Oni Diver;mw5/operator/ui_loot_operator_east_oni_5_1_lg.png
 east_oni;Oni Eclipse;mw5/operator/ui_loot_operator_east_oni_6_1_lg.png
 east_oni;Oni Omega;mw5/operator/ui_loot_operator_east_oni_7_1_lg.png
-east_jinn;;mw5/operator/ui_loot_operator_east_jinn_1_1_lg.png
-east_jinn;;mw5/operator/ui_loot_operator_east_jinn_2_1_lg.png
-east_jinn;;mw5/operator/ui_loot_operator_east_jinn_4_1_lg.png
-east_jinn;;mw5/operator/ui_loot_operator_east_jinn_4_2_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_3_1_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_4_1_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_4_2_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_5_1_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_6_1_lg.png
-east_zero;;mw5/operator/ui_loot_operator_east_zero_7_1_lg.png
+east_roze;Roze;mw5/operator/ui_loot_operator_east_roze_1_1_lg.png
+east_roze;Triage;mw5/operator/ui_loot_operator_east_roze_1_2_lg.png
+east_roze;Relentless;mw5/operator/ui_loot_operator_east_roze_1_3_lg.png
+east_roze;Virtue;mw5/operator/ui_loot_operator_east_roze_1_4_lg.png
+east_roze;Treats;mw5/operator/ui_loot_operator_east_roze_1_5_lg.png
+east_roze;Blackout;mw5/operator/ui_loot_operator_east_roze_2_1_lg.png
+east_roze;Sheathed Blade;mw5/operator/ui_loot_operator_east_roze_3_1_lg.png
+east_roze;Psyop;mw5/operator/ui_loot_operator_east_roze_4_1_lg.png
+east_roze;Thorns Out;mw5/operator/ui_loot_operator_east_roze_5_1_lg.png
+east_roze;The Valkyrie;mw5/operator/ui_loot_operator_east_roze_6_1_lg.png
+east_roze;Bad Bishop;mw5/operator/ui_loot_operator_east_roze_7_1_lg.png
+east_roze;Bad Bishop (BlackCell);mw5/operator/ui_loot_operator_east_roze_7_2_lg.png
+east_jinn;Zero;mw5/operator/ui_loot_operator_east_jinn_1_1_lg.png
+east_jinn;Ursidae;mw5/operator/ui_loot_operator_east_jinn_2_1_lg.png
+east_jinn;Demise;mw5/operator/ui_loot_operator_east_jinn_4_1_lg.png
+east_jinn;Death Ravel;mw5/operator/ui_loot_operator_east_jinn_4_2_lg.png
+east_jinn;Vespidae;mw5/operator/ui_loot_operator_east_zero_3_1_lg.png
+east_jinn;Dry Heat;mw5/operator/ui_loot_operator_east_zero_4_1_lg.png
+east_jinn;Night Heat;mw5/operator/ui_loot_operator_east_zero_4_2_lg.png
+east_jinn;The Hunter;mw5/operator/ui_loot_operator_east_zero_5_1_lg.png
+east_jinn;Badlands;mw5/operator/ui_loot_operator_east_zero_6_1_lg.png
+east_jinn;Precious Cargo;mw5/operator/ui_loot_operator_east_zero_7_1_lg.png
 east_conor;Conor;mw5/operator/ui_loot_operator_east_conor_1_1_lg.png
 east_conor;Burger Town King;mw5/operator/ui_loot_operator_east_conor_2_1_lg.png
 east_conor;Jungle Stalker;mw5/operator/ui_loot_operator_east_conor_3_1_lg.png
@@ -298,8 +319,6 @@ east_neymar;Neymar Jr;mw5/operator/ui_loot_operator_east_neymar_1_1_lg.png
 east_shredder;Shredder;mw5/operator/ui_loot_operator_east_shredder_1_1_lg.png
 east_blair;Vega Unmasked;mw5/operator/ui_loot_operator_east_blair_1_1_lg.png
 east_blair;Vega;mw5/operator/ui_loot_operator_east_blair_2_1_lg.png
-east_blair;;
-east_blair;;
 east_klaus;Klaus;
 east_klaus;MC Hips;
 east_klaus;MC Hops;
@@ -322,21 +341,21 @@ east_bullitt;Soul Crusher;mw5/operator/ui_loot_operator_east_blair_3_1_lg.png
 east_bullitt;Soul Crusher (BlackCell);mw5/operator/ui_loot_operator_east_blair_3_2_lg.png
 east_nima;Nicki Minaj;mw5/operator/ui_loot_operator_east_nima_1_1_lg.png
 east_tws;21 Savage;mw5/operator/ui_loot_operator_east_tws_1_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_1_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_1_2_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_2_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_2_2_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_3_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_4_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_5_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_5_2_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_6_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_7_1_lg.png
-east_valeria;;mw5/operator/ui_loot_operator_east_valeria_8_1_lg.png
+east_valeria;Valeria;mw5/operator/ui_loot_operator_east_valeria_1_1_lg.png
+east_valeria;Valeria (BlackCell);mw5/operator/ui_loot_operator_east_valeria_1_2_lg.png
+east_valeria;El Sin Nombre;mw5/operator/ui_loot_operator_east_valeria_2_1_lg.png
+east_valeria;El Sin Nombre (BlackCell);mw5/operator/ui_loot_operator_east_valeria_2_2_lg.png
+east_valeria;Socialite;mw5/operator/ui_loot_operator_east_valeria_3_1_lg.png
+east_valeria;Ocelopilli;mw5/operator/ui_loot_operator_east_valeria_4_1_lg.png
+east_valeria;Out for Blood;mw5/operator/ui_loot_operator_east_valeria_5_1_lg.png
+east_valeria;Out for Blood (BlackCell);mw5/operator/ui_loot_operator_east_valeria_5_2_lg.png
+east_valeria;Dead Winter;mw5/operator/ui_loot_operator_east_valeria_6_1_lg.png
+east_valeria;The Queen;mw5/operator/ui_loot_operator_east_valeria_7_1_lg.png
+east_valeria_ai;V4L3RIA;mw5/operator/ui_loot_operator_east_valeria_8_1_lg.png
 east_lilith;Lilith;mw5/operator/ui_loot_operator_east_lilith_1_1_lg.png
 east_skeletor;Skeletor;mw5/operator/ui_loot_operator_east_skeletor_1_1_lg.png
-east_skeletor;Snake Mountain;mw5/operator/ui_loot_operator_east_skeletor_2_1_lg.png
-east_skeletor;Evil Warriors;mw5/operator/ui_loot_operator_east_skeletor_3_1_lg.png
+east_skeletor;Horde Skeletor;mw5/operator/ui_loot_operator_east_skeletor_2_1_lg.png
+east_skeletor;Disco Skeletor;mw5/operator/ui_loot_operator_east_skeletor_3_1_lg.png
 east_dune;Sardaukar;mw5/operator/ui_loot_operator_east_dune_1_1_lg.png
 east_cdl_female;Boston Breach;mw5/operator/ui_loot_operator_east_cdl_female_breach_lg.png
 east_cdl_female;Atlanta FaZe;mw5/operator/ui_loot_operator_east_cdl_female_faze_lg.png
