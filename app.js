@@ -149,6 +149,7 @@ function buildTabs(){
 
 function getFiltered(){
   return OPERATORS.filter(op=>{
+    if(!op.appearances.length) return false;
     if(S.game!=="all"&&!op.appearances.some(a=>a.game===S.game)) return false;
     if(S.search){ const q=S.search.toLowerCase(); return op.name.toLowerCase().includes(q)||op.appearances.some(a=>a.faction&&a.faction.toLowerCase().includes(q)); }
     return true;
@@ -232,13 +233,12 @@ function render(){
 function cardHTML(op){
   const isM=op.appearances.length>1;
   const vis=S.game!=="all"?op.appearances.filter(a=>a.game===S.game):op.appearances;
-  const pg=vis[0]?vis[0].game:op.appearances[0].game;
+  const first=vis[0]||op.appearances[0];
+  const pg=first?first.game:"";
   const ac=GAMES[pg]?GAMES[pg].color:"#aaa";
   const mb=isM?'<span class="multi-badge">'+op.appearances.length+'</span>':"";
   const inGame=S.game!=="all";
-  // Name: use alias when on a specific tab, real name on ALL
   const displayName=inGame?(op.alias||op.name):op.name;
-  // Faction + game badges: only on ALL tab
   const fc=!inGame&&vis[0]&&vis[0].faction?'<div class="card-faction">'+vis[0].faction+'</div>':"";
   const apsHTML=!inGame?vis.map(apLine).join(""):"";
   const iname=op.internalName?'<div class="card-iname">'+op.internalName+'</div>':"";
@@ -259,7 +259,8 @@ function cardHTML(op){
 
 function rowHTML(op){
   const vis=S.game!=="all"?op.appearances.filter(a=>a.game===S.game):op.appearances;
-  const ac=GAMES[vis[0]?vis[0].game:""]?GAMES[vis[0].game].color:"#aaa";
+  const first=vis[0]||op.appearances[0];
+  const ac=first&&GAMES[first.game]?GAMES[first.game].color:"#aaa";
   const inGame=S.game!=="all";
   const displayName=inGame?(op.alias||op.name):op.name;
   const faction=!inGame?(vis[0]?vis[0].faction:""):"";
@@ -289,7 +290,7 @@ function openDetail(op){
   dv.style.display="block"; dv.classList.add("page-in");
   setTimeout(function(){ dv.classList.remove("page-in"); },200);
 
-  var pg=op.appearances[0].game;
+  var pg=op.appearances.length?op.appearances[0].game:"mw5";
   var ac=GAMES[pg]?GAMES[pg].color:"#aaa";
   var isM=op.appearances.length>1;
 
