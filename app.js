@@ -30,42 +30,61 @@ function parseCSV(text){
   return rows;
 }
 
+// Games to load — each key maps to its folder name
+const GAME_FOLDERS = {
+  mw5: 'mw5',
+  // mw6: 'mw6',
+  // bo6: 'bo6',
+  // bo7: 'bo7',
+};
+
 async function loadData(){
-  const [opsText, apText, skText] = await Promise.all([
-    fetch('mw5/data/operators.csv').then(r=>r.text()),
-    fetch('mw5/data/appearances.csv').then(r=>r.text()),
-    fetch('mw5/data/skins.csv').then(r=>r.text()),
-  ]);
+  const allOperators = {};   // keyed by internal id, merged across games
+  const allAppearances = {}; // operator_id → [{game,faction,season}]
+  const allSkins = {};       // operator_id → [{name,path}]
 
-  const opsRows  = parseCSV(opsText);
-  const apRows   = parseCSV(apText);
-  const skinRows = parseCSV(skText);
+  await Promise.all(Object.entries(GAME_FOLDERS).map(async ([gameKey, folder]) => {
+    const [opText, apText, skText] = await Promise.all([
+      fetch(folder+'/data/operator.csv').then(r=>r.text()),
+      fetch(folder+'/data/appearances.csv').then(r=>r.text()),
+      fetch(folder+'/data/skins.csv').then(r=>r.text()),
+    ]);
 
-  // Index appearances and skins by operator_id
-  const apMap={}, skMap={};
-  apRows.forEach(r=>{
-    if(!apMap[r.operator_id]) apMap[r.operator_id]=[];
-    apMap[r.operator_id].push({ game:r.game, faction:r.faction, season:r.season||null });
-  });
-  skinRows.forEach(r=>{
-    if(!skMap[r.operator_id]) skMap[r.operator_id]=[];
-    skMap[r.operator_id].push({ name:r.skin_name, path:r.skin_path });
-  });
+    parseCSV(opText).forEach(r => {
+      const id = r.internal;
+      if(!allOperators[id]) allOperators[id] = {
+        id,
+        name:         r.name,
+        alias:        r.alias||null,
+        icon:         r.icon||null,
+        internalName: id,
+        bio: (r.citizenship||r.language||r.status||r.background) ? {
+          citizenship: r.citizenship||null,
+          language:    r.language||null,
+          status:      r.status||null,
+          background:  r.background||null,
+        } : null,
+      };
+    });
 
-  OPERATORS = opsRows.map(r=>({
-    id:           r.id,
-    name:         r.name,
-    alias:        r.alias||null,
-    icon:         r.icon||null,
-    internalName: r.internalName||null,
-    bio: (r.citizenship||r.language||r.status||r.background) ? {
-      citizenship: r.citizenship||null,
-      language:    r.language||null,
-      status:      r.status||null,
-      background:  r.background||null,
-    } : null,
-    appearances:  apMap[r.id]||[],
-    skins:        skMap[r.id]||[],
+    parseCSV(apText).forEach(r => {
+      const id = r.operator_id;
+      if(!allAppearances[id]) allAppearances[id] = [];
+      allAppearances[id].push({ game:gameKey, faction:r.faction, season:r.season||null });
+    });
+
+    parseCSV(skText).forEach(r => {
+      const id = r.operator_id;
+      if(!allSkins[id]) allSkins[id] = [];
+      allSkins[id].push({ name:r.skin_name, path:r.skin_path });
+    });
+  }));
+
+  // Assemble final OPERATORS array, preserving appearance order across games
+  OPERATORS = Object.values(allOperators).map(op => ({
+    ...op,
+    appearances: allAppearances[op.id] || [],
+    skins:       allSkins[op.id]       || [],
   }));
 
   render();
