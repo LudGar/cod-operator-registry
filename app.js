@@ -6,6 +6,14 @@ const GAMES = {
   
 let OPERATORS = [];
 
+function resolveAssetPath(folder, path){
+  if(!path) return null;
+  const clean = path.trim();
+  if(!clean) return null;
+  if(clean.startsWith('http://') || clean.startsWith('https://') || clean.startsWith('/')) return clean;
+  return clean.startsWith(folder + '/') ? clean : (folder + '/' + clean);
+}
+
 // ── CSV loader ──────────────────────────────────────────────────────────────────
 function parseCSV(text){
   const rows=[], lines=text.trim().split('\n');
@@ -54,7 +62,7 @@ async function loadData(){
         id,
         name:         r.name,
         alias:        r.alias||null,
-        icon:         r.icon||null,
+        icon:         resolveAssetPath(folder, r.icon),
         internalName: id,
         bio: (r.citizenship||r.language||r.status||r.background) ? {
           citizenship: r.citizenship||null,
@@ -76,7 +84,8 @@ async function loadData(){
     parseCSV(skText).forEach(r => {
       const id = r.operator_id;
       if(!allSkins[id]) allSkins[id] = [];
-      allSkins[id].push({ name:r.skin_name, path:r.skin_path });
+      const skinPath = resolveAssetPath(folder, r.skin_path);
+      if(skinPath) allSkins[id].push({ name:r.skin_name, path:skinPath });
     });
   }));
 
@@ -118,15 +127,27 @@ function patternSVG(seed,color){
 
 // ── State ─────────────────────────────────────────────────────────────────────────
 var S={ game:"all", search:"", view:"grid" };
-const gameCount={};
-OPERATORS.forEach(op=>{
-  const seen=new Set();
-  op.appearances.forEach(a=>{ if(!seen.has(a.game)){ gameCount[a.game]=(gameCount[a.game]||0)+1; seen.add(a.game); } });
-});
-const multiCount=OPERATORS.filter(op=>op.appearances.length>1).length;
+
+function getStats(){
+  const gameCount={};
+  OPERATORS.forEach(op=>{
+    const seen=new Set();
+    op.appearances.forEach(a=>{
+      if(!seen.has(a.game)){
+        gameCount[a.game]=(gameCount[a.game]||0)+1;
+        seen.add(a.game);
+      }
+    });
+  });
+  return {
+    gameCount,
+    multiCount: OPERATORS.filter(op=>new Set(op.appearances.map(a=>a.game)).size>1).length,
+  };
+}
 
 // ── Tabs ──────────────────────────────────────────────────────────────────────────
 function buildTabs(){
+  const { gameCount } = getStats();
   const c=document.getElementById("game-tabs"); c.innerHTML="";
   const allB=document.createElement("button");
   allB.className="game-tab all"+(S.game==="all"?" active-all":"");
@@ -158,6 +179,7 @@ function getFiltered(){
 
 // ── Render ────────────────────────────────────────────────────────────────────────
 function render(){
+  const { multiCount } = getStats();
   buildTabs();
   document.getElementById("header-sub").textContent=OPERATORS.length+" OPERATORS \u00b7 "+multiCount+" CROSS-GAME \u00b7 "+Object.keys(GAMES).length+" TITLES";
   const ops=getFiltered();
