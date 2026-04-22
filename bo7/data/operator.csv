@@ -1,0 +1,4 @@
+operator_id;faction;season;name;alias;icon;citizenship;language;status
+sat_mozzarella;JSOC;Bundle;Jenkins Thurgood;Thurgood;ui_icon_operators_select_mozzarella.png;American;English;Active
+sat_raven;JSOC;Battle Pass Season 3;Donovan Cole;Javelin;ui_icon_operators_select_raven.png;American;English;Active
+;;;;;ui_icon_operators_select_valkyrie.png;
