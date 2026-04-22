@@ -1,0 +1,52 @@
+operator_id;faction;season;name;alias;icon;citizenship;language;status
+alpha;;;;BBQ;jup_ui_operator_alpha_portrait_lg.png;;English;Active
+ash;;;;Abolisher Blackcell;jup_ui_operator_ash_portrait_lg.png;United Kingdom;English;Active
+beta;;;;"""-""";jup_ui_operator_beta_portrait_lg.png;United Kingdom;English;Active
+bike;;;;"""-""";jup_ui_operator_bike_portrait_lg.png;United Kingdom;English;Active
+bravo;;;;Pathfinder;jup_ui_operator_bravo_portrait_lg.png;United Kingdom;English;Active
+cal;;;;John Doe;jup_ui_operator_cal_portrait_lg.png;American;English;Active
+cdl_female_away;;;;2024 CDL Female Away;jup_ui_operator_cdl_female_away_portrait_lg.png;American;English;Active
+cdl_female_home;;;;2024 CDL Female Home;jup_ui_operator_cdl_female_home_portrait_lg.png;Russian;English;Active
+cdl_male_away;;;;2024 CDL Male Away;jup_ui_operator_cdl_male_away_portrait_lg.png;American;English;Active
+cdl_male_home;;;;2024 CDL Male Home;jup_ui_operator_cdl_male_home_portrait_lg.png;Urzik;English;Active
+east_charlie;;;;Thirst;jup_ui_operator_east_charlie_portrait_lg.png;American;English;Active
+echo;;;;Alpine;jup_ui_operator_echo_portrait_lg.png;American;English;Active
+eta;;;;Firecracker;jup_ui_operator_eta_portrait_lg.png;American;English;Active
+fall;;;;Stasis Blackcell;jup_ui_operator_fall_portrait_lg.png;Mexican;English;Active
+gamma;;;;"""-""";jup_ui_operator_gamma_portrait_lg.png;Costa Rican;English;Active
+ghost_vault;;;;"""-""";jup_ui_operator_ghost_vault_portrait_lg.png;Chinese;English;Active
+golf;;;;Bantam;jup_ui_operator_golf_portrait_lg.png;Greek;English;Active
+hammer;;;;Hammer;jup_ui_operator_hammer_portrait_lg.png;British;English;Active
+hotel;;;;Scorch;jup_ui_operator_hotel_portrait_lg.png;Polish;English;Active
+india;;;;Blueprint;jup_ui_operator_india_portrait_lg.png;Canadian;English;Active
+judo;;;;Rick Grimes;jup_ui_operator_judo_portrait_lg.png;American;English;Active
+juliet;;;;Doc;jup_ui_operator_juliet_portrait_lg.png;French;English;Active
+kappa;;;;Banshee;jup_ui_operator_kappa_portrait_lg.png;Argentine;English;Active
+kilo;;;;Warden;jup_ui_operator_kilo_portrait_lg.png;Mexican;English;Active
+lambda;;;;Hush;jup_ui_operator_lambda_portrait_lg.png;American;English;Active
+laswell;;;;Laswell;jup_ui_operator_laswell_portrait_lg.png;American;English;Active
+lima;;;;Lockpick;jup_ui_operator_lima_portrait_lg.png;;English;Active
+maestro;;;;Dokkaebi;jup_ui_operator_maestro_portrait_lg.png;American;English;Active
+makarov_vault;;;;"""-""";jup_ui_operator_makarov_vault_portrait_lg.png;American;English;Active
+mike;;;;Jabber;jup_ui_operator_mike_portrait_lg.png;;English;Active
+nolan;;;;Nolan;jup_ui_operator_nolan_portrait_lg.png;British/England;English;Active
+november;;;;Byline;jup_ui_operator_november_portrait_lg.png;American;English;Active
+oscar;;;;Corso;jup_ui_operator_oscar_portrait_lg.png;;English;Active
+papa;;;;Jet;jup_ui_operator_papa_portrait_lg.png;American;English;Active
+price_vault;;;;"""-""";jup_ui_operator_price_vault_portrait_lg.png;;English;Active
+quebec;;;;Enigma;jup_ui_operator_quebec_portrait_lg.png;;English;Active
+romeo;;;;Warrior;jup_ui_operator_romeo_portrait_lg.png;;English;Active
+sage;;;;Copy;jup_ui_operator_sage_portrait_lg.png;;English;Active
+sierra;;;;Ripper;jup_ui_operator_sierra_portrait_lg.png;Hungarian;English;Active
+spring;;;;"""-""";jup_ui_operator_spring_portrait_lg.png;Austria;German;Active
+summer;;;;"""-""";jup_ui_operator_summer_portrait_lg.png;French-Spain;English;Active
+tango;;;;Raptor;jup_ui_operator_tango_portrait_lg.png;American;English;Active
+thyme;;;;Dupe;jup_ui_operator_thyme_portrait_lg.png;South Korea;English;Active
+uniform;;;;Blaze;jup_ui_operator_uniform_portrait_lg.png;Japanese;English;Active
+void;;;;Void;jup_ui_operator_void_portrait_lg.png;Egypt;English;Active
+west_delta;;;;Rocket;jup_ui_operator_west_delta_portrait_lg.png;Irish;English;Active
+whiskey;;;;Swagger;jup_ui_operator_whiskey_portrait_lg.png;Norwegian;English;Active
+winter;;;;"""-""";jup_ui_operator_winter_portrait_lg.png;Italian;English;Active
+woods;;;;Woods;jup_ui_operator_woods_portrait_lg.png;Nigerian;English;Active
+zeta;;;;A-Train;jup_ui_operator_zeta_portrait_lg.png;Brazilian;English;Active
+zulu;;;;Riptide;jup_ui_operator_zulu_portrait_lg.png;;English;Active

@@ -1,0 +1,43 @@
+operator_id;faction;season;name;alias;icon;citizenship;language;status
+;;;;Demsey;ui_icon_operator_select_amber;;;Active
+;;;;Falkner;ui_icon_operator_select_azure;;;Active
+;;;;Nikolai;ui_icon_operator_select_magenta;;;Active
+;;;;Anderson;ui_icon_operator_select_orange;;;Active
+;;;;Vermaak;ui_icon_operator_select_peach;;;Active
+;;;;Richtofen;ui_icon_operator_select_purple;;;Active
+;;;;Takeo;ui_icon_operator_select_scarlet;;;Active
+;;;;Harper;ui_icon_operators_select_black;;;Active
+;;;;Grimm;ui_icon_operators_select_blue;;;Active
+;;;;Scorn;ui_icon_operators_select_breake;;;Active
+;;;;Carver;ui_icon_operators_select_carver_sat;;;Active
+;;;;2026 CDL Female Away;ui_icon_operators_select_cdl_female_away;;;Active
+;;;;2026 CDL Female Home;ui_icon_operators_select_cdl_female_home;;;Active
+;;;;2026 CDL Male Away;ui_icon_operators_select_cdl_male_away;;;Active
+;;;;2026 CDL Male Home;ui_icon_operators_select_cdl_male_home;;;Active
+;;;;Razor;ui_icon_operators_select_cyan;;;Active
+;;;;Atwood;ui_icon_operators_select_director;;;Active
+;;;;The Replacer;ui_icon_operators_select_freelance_sat;;;
+;;;;Wei Lin;ui_icon_operators_select_gold;;;
+;;;;Reaper EWR-3;ui_icon_operators_select_gray;;;
+;;;;Kagan;ui_icon_operators_select_green;;;
+;;;;Grey;ui_icon_operators_select_grey_sat;;;
+;;;;Jurado;ui_icon_operators_select_indigo;;;
+;;;;Lucy;ui_icon_operators_select_iris;;;
+;;;;Samuels;ui_icon_operators_select_maroon;;;
+;;;;Maya;ui_icon_operators_select_maya_sat;;;
+;;;;Thurgood;ui_icon_operators_select_mozzarella;;;
+;;;;Phantom;ui_icon_operators_select_overlord;;;
+;;;;Maximus;ui_icon_operators_select_peony;;;
+;;;;Javelin;ui_icon_operators_select_raven;;;
+;;;;Mason;ui_icon_operators_select_red;;;
+;;;;"""-""";ui_icon_operators_select_remote_robot;;;
+;;;;"""-""";ui_icon_operators_select_remote_robot_guild;;;
+;;;;50/50;ui_icon_operators_select_rose;;;
+;;;;T.E.D.D.;ui_icon_operators_select_silver;;;
+;;;;The Replacer;ui_icon_operators_select_sunflower;;;
+;;;;The Ghoul;ui_icon_operators_select_tulip;;;
+;;;;Valkyrie;ui_icon_operators_select_valkyrie;;;
+;;;;Zaveri;ui_icon_operators_select_violet;;;
+;;;;Dorne;ui_icon_operators_select_voss;;;
+;;;;Weaver;ui_icon_operators_select_weaver_sat;;;
+;;;;Karma;ui_icon_operators_select_white;;;

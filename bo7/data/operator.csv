@@ -1,4 +1,41 @@
 operator_id;faction;season;name;alias;icon;citizenship;language;status
-sat_mozzarella;JSOC;Bundle;Jenkins Thurgood;Thurgood;ui_icon_operators_select_mozzarella.png;American;English;Active
-sat_raven;JSOC;Battle Pass Season 3;Donovan Cole;Javelin;ui_icon_operators_select_raven.png;American;English;Active
-;;;;;ui_icon_operators_select_valkyrie.png;
+amber;;;Dempsey Tank;Dempsey;ui_icon_operator_select_amber;;;Active
+azure;;;;Falkner;ui_icon_operator_select_azure;;;Active
+magenta;;;;Nikolai;ui_icon_operator_select_magenta;;;Active
+orange;;;;Anderson;ui_icon_operator_select_orange;;;Active
+peach;;;;Vermaak;ui_icon_operator_select_peach;;;Active
+purple;;;;Richtofen;ui_icon_operator_select_purple;;;Active
+scarlet;;;;Takeo;ui_icon_operator_select_scarlet;;;Active
+black;;;;Harper;ui_icon_operators_select_black;;;Active
+blue;;;;Grimm;ui_icon_operators_select_blue;;;Active
+carver_sat;;;;Carver;ui_icon_operators_select_carver_sat;;;Active
+breake;;;;Scorn;ui_icon_operators_select_breake;;;Active
+cdl_female_away;;;;Competitor;ui_icon_operators_select_cdl_female_away;;;Active
+cdl_female_hole;;;;Competitor;ui_icon_operators_select_cdl_female_home;;;Active
+cdl_male_away;;;;Competitor;ui_icon_operators_select_cdl_male_away;;;Active
+cdl_male_home;;;;Competitor;ui_icon_operators_select_cdl_male_home;;;Active
+cyan;;;;Razor;ui_icon_operators_select_cyan;;;Active
+director;;;;Atwood;ui_icon_operators_select_director;;;Active
+freelance_sat;;;;The Replacer;ui_icon_operators_select_freelance_sat;;;Active
+gold;;;;Wei Lin;ui_icon_operators_select_gold;;;Active
+gray;;;;Reaper EWR-3;ui_icon_operators_select_gray;;;Active
+green;;;;Kagan;ui_icon_operators_select_green;;;Active
+grey_sat;;;;Grey;ui_icon_operators_select_grey_sat;;;Active
+indigo;;;;Jurado;ui_icon_operators_select_indigo;;;Active
+iris;;;;Lucy;ui_icon_operators_select_iris;;;Active
+maroon;;;;Samuels;ui_icon_operators_select_maroon;;;Active
+maya_sat;;;;Maya;ui_icon_operators_select_maya_sat;;;Active
+mozzarella;;;;Thurgood;ui_icon_operators_select_mozzarella;;;Active
+overlord;;;;Phantom;ui_icon_operators_select_overlord;;;Active
+peony;;;;Maximus;ui_icon_operators_select_peony;;;Active
+raven;;;;Javelin;ui_icon_operators_select_raven;;;Active
+red;;;;Mason;ui_icon_operators_select_red;;;Active
+rose;;;;50/50;ui_icon_operators_select_rose;;;Active
+silver;;;;T.E.D.D.;ui_icon_operators_select_silver;;;Active
+sunflower;;;;The Replacer;ui_icon_operators_select_sunflower;;;Active
+tulip;;;;The Ghoul;ui_icon_operators_select_tulip;;;Active
+valkyrie;;;;Valkyrie;ui_icon_operators_select_valkyrie;;;Active
+violet;;;;Zaveri;ui_icon_operators_select_violet;;;Active
+voss;;;;Dorne;ui_icon_operators_select_voss;;;Active
+weaver_sat;;;;Weaver;ui_icon_operators_select_weaver_sat;;;Active
+white;;;;Karma;ui_icon_operators_select_white;;;Active
